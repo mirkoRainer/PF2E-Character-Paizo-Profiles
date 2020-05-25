@@ -1,0 +1,171 @@
+Race	
+| Focus: 1 | Spells: DC 19 | Attack +9 | [url=https://2e.aonprd.com/Spells.aspx?ID=126]Forbidding Ward[/url] [url=https://2e.aonprd.com/Spells.aspx?ID=58]Dancing Lights[/url] |
+
+Classes/Levels	
+Skills Acro +11, Arcn +8, Athl +7, Crft +8, Dcptn +9, Dplmcy +9, Intim +9, Lore: Engineering +8, Med +6, Occult +8, Prfrmnc +9, Society +2, Stlth +9, Surv +6, Thvry +11
+
+Gender	
+NG | Gnome Rogue (Bard Dedication) | AC 19 | HP 23/48 | Resistance: Negative 2 | Fort +8 | Ref +11 | Will +8 | Hero Points 1 | Perc: +8 | Low-Light Vision
+
+Gnome Rogue (Bard) 4
+NG, Small, Gnome, Vivacious Gnome, Humanoid
+Low-Light Vision
+[b]Perception[/b] +8
+[dice=Perception]1d20+8[/dice]
+[dice=Perception for Traps]1d20+9[/dice]
+--------------------
+[b]AC[/b] 19;
+[b]Fortitude[/b] +8; 
+[dice=Fortitude]1d20+8[/dice]
+[b]Reflex[/b] +11; 
+[dice=Reflex]1d20+11[/dice]
+[b]Will[/b] +8; 
+[dice=Will]1d20+8[/dice]
+[i]+1 to AC/Saves vs Traps[/i]
+[i]+2 circumstance bonus to AC/Saves vs Traps triggered when disarming[/i]
+
+[b]Hit Points[/b] 19/48
+[b]Focus Points[/b] 1
+[b]Hero Points[/b] 1
+--------------------
+[b]Speed[/b] 25 feet
+--------------------
+[b]STR[/b] -1
+[b]DEX[/b] +3
+[b]CON[/b] +2
+[b]INT[/b] +2
+[b]WIS[/b] +0
+[b]CHA[/b] +3
+
+[b]Languages[/b] 
+Common, Gnomish, Azlanti, Sylvan
+
+[spoiler=Reactions]
+[url=https://2e.aonprd.com/Feats.aspx?ID=993]Unexpected Shift[/url]
+[b]Trigger[/b] You would take damage from an attack, spell, or other effect.
+Your supernatural connection sometimes causes you to phase from reality when under threat, disappearing for split seconds before reappearing—often surprising you as much as your enemies. Roll a DC 16 flat check. On a success, you gain resistance to all damage equal to your level against the triggering effect, you gain a +2 circumstance bonus to saving throws against that effect until the start of your turn, and you gain the [url=https://2e.aonprd.com/Conditions.aspx?ID=7]dazzled condition[/url] for 1 round.
+[/spoiler]
+
+[spoiler=Attacks]
+[dice=[b]Whip NL(1)[/b]]1d20+10[/dice]
+[dice=[b]Whip NL(2)[/b]]1d20+5[/dice]
+[dice=[b]Whip NL(3)[/b]]1d20[/dice]
+[dice=[b]Whip NL Damage[/b]]1d4-1[/dice]
+[dice=[b]Whip (1)[/b]]1d20+8[/dice]
+[dice=[b]Whip (2)[/b]]1d20+3[/dice]
+[dice=[b]Whip (3)[/b]]1d20-2[/dice]
+[dice=[b]Whip (S)Damage[/b]]1d4-1[/dice]
+[dice=[b]Whip Trip vs Reflex DC(1)[/b]]1d20+12[/dice]
+[dice=[b]Whip Trip vs Reflex DC(2)[/b]]1d20+7[/dice]
+[dice=[b]Whip Trip vs Reflex DC(3)[/b]]1d20+2[/dice]
+[dice=[b]Whip Disarm vs Reflex DC(3)[/b]]1d20+12[/dice]
+[dice=[b]Whip Disarm vs Reflex DC(2)[/b]]1d20+7[/dice]
+[dice=[b]Whip Disarm vs Reflex DC(3)[/b]]1d20+2[/dice]
+[dice=[b]Sneak Attack[/b]]1d6[/dice]
+[dice=[b]ShortSword (1)[/b]]1d20+9[/dice]
+[dice=[b]ShortSword (2)[/b]]1d20+5[/dice]
+[dice=[b]ShortSword (3)[/b]]1d20+1[/dice]
+[dice=[b]ShortSword (P/S)Damage[/b]]1d6-1[/dice]
+[dice=[b]HandCrossbow (1)[/b]]1d20+9[/dice]
+[dice=[b]HandCrossbow (2)[/b]]1d20+5[/dice]
+[dice=[b]HandCrossbow (3)[/b]]1d20+1[/dice]
+[dice=[b]HandCrossbow (P)Damage[/b]]1d6[/dice]
+[/spoiler]
+
+[spoiler=Skills]
+[dice=[b]Acrobatics         (E)[/b]]1d20 [b]+11[/b] [/dice]
+[dice=[b]Arcana             (T)[/b]]1d20 [b]+8[/b] [/dice]
+[dice=[b]Athletics          (E)[/b]]1d20 [b]+7[/b] [/dice]
+[dice=[b]Crafting           (T)[/b]]1d20 [b]+8[/b] [/dice]
+[dice=[b]Deception          (T)[/b]]1d20 [b]+9[/b] [/dice]
+[dice=[b]Diplomacy          (T)[/b]]1d20 [b]+9[/b] [/dice]
+[dice=[b]Intimidation       (T)[/b]]1d20 [b]+9[/b] [/dice]
+[dice=[b]Lore:Engineering   (T)[/b]]1d20 [b]+8[/b] [/dice]
+[dice=[b]Lore:Bardic        (T)[/b]]1d20 [b]+8[/b] [/dice]
+[dice=[b]Medicine           (T)[/b]]1d20 [b]+6[/b] [/dice]
+[dice=[b]Nature             (U)[/b]]1d20 [b]+0[/b] [/dice]
+[dice=[b]Occultism          (T)[/b]]1d20 [b]+8[/b] [/dice]
+[dice=[b]Performance        (T)[/b]]1d20 [b]+9[/b] [/dice]
+[dice=[b]Religion           (U)[/b]]1d20 [b]+0[/b] [/dice]
+[dice=[b]Society            (U)[/b]]1d20 [b]+2[/b] [/dice]
+[dice=[b]Stealth            (T)[/b]]1d20 [b]+9[/b] [/dice]
+[dice=[b]Survival           (T)[/b]]1d20 [b]+6[/b] [/dice]
+[dice=[b]Thievery           (E)[/b]]1d20 [b]+11[/b] [/dice]
+[b]Circumstancial Checks[/b]
+[dice=[b]Crafting for Glassworking(T)[/b]]1d20[b]+9[/b] [/dice]
+[dice=[b]Occultism(T) to Identify mental/possession/prediction/scrying[/b]]1d20[b]+12[/b] [/dice]
+[/spoiler]
+------------------------
+[spoiler=Snare Formulas]
+[url=https://2e.aonprd.com/Equipment.aspx?ID=328][b]Alarm Snare[/b][/url] - When you create an alarm snare, you designate a range between 100 to 500 feet at which it can be heard. When a Small or larger creature enters the square, the snare makes a noise loud enough that it can be heard by all creatures in the range you designated.
+[url=https://2e.aonprd.com/Equipment.aspx?ID=336][b]Hampering Snare[/b][/url] - The square with this snare, as well as three adjacent squares (to form a 10-foot-by-10-foot area), become difficult terrain when the first creature enters the snare’s square. The difficult terrain affects the creature’s movement right away, including its movement into the triggering square, and it lasts for 1d4 rounds after the snare is triggered. A creature can use an Interact action to clear the difficult terrain out of a single square early.
+[url=https://2e.aonprd.com/Equipment.aspx?ID=339][b]Marking Snare[/b][/url] - When you create this snare, you must decide whether to make it a dye or a scent marker. Either type of marking grants a +2 circumstance bonus to Track the creature for up to 24 hours or until the dye or scent is washed off (requiring at least a gallon of water and 10 minutes of scrubbing). A creature that enters a square of the snare must attempt a DC 17 Reflex save.
+[b]Success[/b] The creature is unaffected.
+[b]Failure[/b] The snare marks the creature.
+[b]Critical Failure[/b] The snare marks the creature, and the creature is blinded until the end of its next turn.
+[url=https://2e.aonprd.com/Equipment.aspx?ID=343][b]Spike Snare[/b][/url] - This basic snare consists of hidden spikes that rely on a creature’s momentum to lacerate or potentially impale it as it enters the snare’s square, dealing 2d8 piercing damage. The creature must attempt a DC 17 basic Reflex saving throw.
+[/spoiler]
+--------------------------
+[b]Items[/b]:
+[spoiler=Worn]
+Padded Armor
+Bandolier (Thieve's Tools)
+Thieve's Tools
+Book Bag
+Short Sword
+Hand Crossbow
+Feather Token (Ladder)
+Whip +1 
+[/spoiler]
+[spoiler=BackPack(BookBag)]
+Snare Kit
+Healer's Tools
+[dice=[b]Healing Potion (Minor)[/b]]1d8[/dice] x2
+Bedroll
+Soap
+Flint and Steel
+Waterskin
+Signal Whistle
+Candle x5
+Wand of [url=https://2e.aonprd.com/Spells.aspx?ID=352]Unseen Servant[/url]
+Scroll of [url=https://2e.aonprd.com/Spells.aspx?ID=34]Charm[/url]
+[url=https://2e.aonprd.com/Equipment.aspx?ID=270]Wondrous Figurine (Onyx Dog)[/url]
+[/spoiler]
+[spoiler=Coin]
+1gp
+3sp
+4cp
+[/spoiler]
+--------------------
+[spoiler=Occult Spontaneous Spells] 
+DC 19 
+Attack +9
+[b]Cantrips (1st)[/b]
+[url=https://2e.aonprd.com/Spells.aspx?ID=126]Forbidding Ward[/url] 
+[url=https://2e.aonprd.com/Spells.aspx?ID=58]Dancing Lights[/url]
+[/spoiler]
+
+[spoiler=Feats]
+[url=https://2e.aonprd.com/Feats.aspx?ID=756]Assurance (Medicine)[/url] - Take 10 on Medicine Checks
+[url=https://2e.aonprd.com/Feats.aspx?ID=677]Bard Dedication[/url] - Multiclassing! I get a Muse (Enigma) and two Cantrips.
+[url=https://2e.aonprd.com/Feats.aspx?ID=179]Bardic Lore[/url] - Can use Bardic Lore for any Recall Knowledge.
+[url=https://2e.aonprd.com/Feats.aspx?ID=817]Oddity Identification[/url] - +2 circumstance bonus to Occultism checks to Identify Magic with the mental, possession, prediction, or scrying traits.
+[url=https://2e.aonprd.com/Feats.aspx?ID=843]Snare Crafting[/url] - I can make Snares. Get four commons formulas.
+[url=https://2e.aonprd.com/Feats.aspx?ID=844]Specialty Crafting (Glass Making) [/url] - +1 bonus on Crafting checks
+[url=https://2e.aonprd.com/Feats.aspx?ID=551]Trap Finder[/url] - You gain a +1 circumstance bonus to Perception checks to find traps, to AC against attacks made by traps, and to saves against traps. Even if you aren’t Searching, you get a check to find traps that normally require you to be Searching. You still need to meet any other requirements to find the trap.
+You can disable traps that require a proficiency rank of master in Thievery. If you have master proficiency in Thievery, you can disable traps that require a proficiency rank of legendary instead, and your circumstance bonuses against traps increase to +2.
+[url=http://2e.aonprd.com/Heritages.aspx?Ancestry=3]Vivacious Gnome[/url] - You gain negative resistance equal to half your level (minimum 1). When you have the doomed condition, the condition affects you as if its value was 1 lower than it actually is (doomed 1 has no effect, doomed 2 causes you to die at dying 3, and so on).
+[url=https://2e.aonprd.com/Feats.aspx?ID=865]Wary Disarmament[/url] - f you trigger a device or set off a trap while disarming it, you gain a +2 circumstance bonus to your AC or saving throw against the device or trap. This applies only to attacks or effects triggered by your failed attempt, not to any later ones, such as additional attacks from a complex trap.
+[url=https://2e.aonprd.com/Feats.aspx?ID=866]Weapon Proficiency[/url] - Trained in Martial weapons now (WHIP!)
+[/spoiler]
+
+[spoiler=Class Features]
+[b]Scoundrel Racket[/b] When you successfully Feint, the target is flat-footed against melee attacks you attempt against it until the end of your next turn. On a critical success, the target is flat-footed against all melee attacks until the end of your next turn, not just yours.
+You’re trained in Deception and Diplomacy. You can choose Charisma as your key ability score.
+
+[b]Sneak Attack[/b] Deals 1d6 extra precision damage to flat-footed creatures.
+
+[b]Suprise Attack[/b] On the first round of combat, if you roll Deception or Stealth for initiative, creatures that haven’t acted are flat-footed to you.
+
+[b]Deny Advantage[/b] As someone who takes advantage of others’ defenses, you are careful not to leave such openings yourself. You aren’t flat-footed to hidden, undetected, or flanking creatures of your level or lower, or creatures of your level or lower using surprise attack. However, they can still help their allies flank.
+[/spoiler]

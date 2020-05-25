@@ -1,0 +1,101 @@
+Woodland Elf Flurry Ranger with Druid Dedication 8
+CG Medium Humanoid (Elf)
+[b]Worshiper of Ketephys (The Hunter)[/b]
+[b]Perception:[/b] +17 (+19 for Initiative)
+------------------------------
+[b]DEFENSE[/b]
+------------------------------
+[b]AC[/b] 26 
+[b]HP[/b] 102/102 
+[b]Fort (E)[/b] +14, [b]Ref (M)[/b] +18, [b]Will (E)[/b] +15 
+------------------------------
+[b]OFFENSE[/b]
+------------------------------
+[b]Speed[/b] 45 ft. (Elf 30ft + Fleet 5ft + Nimble Elf 5ft + Boots 5ft)
+[spoiler=[url=https://2e.aonprd.com/Weapons.aspx?ID=50]+1 Striking Elven Curved Blade (Elf, Finesse, Forceful, Uncommon)[/url]]
+[dice=[i]Elven Curved Blade[/i] (1)]1d20+17[/dice][dice=Damage]2d8[/dice]
+[dice=[i]Elven Curved Blade[/i] (2)]1d20+12[/dice][dice=Damage]2d8+2[/dice]
+[dice=[i]Elven Curved Blade[/i] (3)]1d20+7[/dice][dice=Damage]2d8+4[/dice]
+[dice=[i]Elven Curved Blade vs Prey[/i] (1)]1d20+17[/dice][dice=Damage]2d8[/dice]
+[dice=[i]Elven Curved Blade vs Prey[/i] (2)]1d20+14[/dice][dice=Damage]2d8+2[/dice]
+[dice=[i]Elven Curved Blade vs Prey[/i] (3)]1d20+11[/dice][dice=Damage]2d8+4[/dice]
+[/spoiler]
+[spoiler=Dagger (Agile, Finesse, Thrown 10ft, Versatile S)]
+[dice=[i]Dagger[/i] (1)]1d20+16[/dice][dice=Damage]1d4[/dice]
+[dice=[i]Dagger[/i] (2)]1d20+12[/dice][dice=Damage]1d4[/dice]
+[dice=[i]Dagger[/i] (3)]1d20+8[/dice][dice=Damage]1d4[/dice]
+[dice=[i]Dagger vs Prey[/i] (1)]1d20+16[/dice][dice=Damage]1d4[/dice]
+[dice=[i]Dagger vs Prey[/i] (2)]1d20+14[/dice][dice=Damage]1d4[/dice]
+[dice=[i]Dagger vs Prey[/i] (3)]1d20+12[/dice][dice=Damage]1d4[/dice]
+[/spoiler]
+[spoiler=Longbow]
+[dice=[i]Longbow[/i] (1)]1d20+16[/dice][dice=Damage]1d8[/dice]
+[dice=[i]Longbow[/i] (2)]1d20+11[/dice][dice=Damage]1d8[/dice]
+[dice=[i]Longbow[/i] (3)]1d20+6[/dice][dice=Damage]1d8[/dice]
+[dice=[i]Longbow vs Prey[/i] (1)]1d20+16[/dice][dice=Damage]1d8[/dice]
+[dice=[i]Longbow vs Prey[/i] (2)]1d20+13[/dice][dice=Damage]1d8[/dice]
+[dice=[i]Longbow vs Prey[/i] (3)]1d20+10[/dice][dice=Damage]1d8[/dice]
+[/spoiler]
+------------------------------
+[b]STATISTICS[/b]
+------------------------------
+[b]Str[/b] 10, [b]Dex[/b] 19, [b]Con[/b] 14, [b]Int[/b] 16, [b]Wis[/b] 16, [b]Cha[/b] 10
+[spoiler=Skills]
+[dice=[b]Acrobatics         (E)[/b]]1d20 [b]+11[/b] [/dice]
+[dice=[b]Arcana             (T)[/b]]1d20 [b]+8 [/b] [/dice]
+[dice=[b]Athletics          (E)[/b]]1d20 [b]+7 [/b] [/dice]
+[dice=[b]Crafting           (T)[/b]]1d20 [b]+8 [/b] [/dice]
+[dice=[b]Deception          (T)[/b]]1d20 [b]+9 [/b] [/dice]
+[dice=[b]Diplomacy          (T)[/b]]1d20 [b]+9 [/b] [/dice]
+[dice=[b]Intimidation       (T)[/b]]1d20 [b]+9 [/b] [/dice]
+[dice=[b]Lore:Engineering   (T)[/b]]1d20 [b]+8 [/b] [/dice]
+[dice=[b]Lore:Bardic        (T)[/b]]1d20 [b]+8 [/b] [/dice]
+[dice=[b]Medicine           (T)[/b]]1d20 [b]+6 [/b] [/dice]
+[dice=[b]Nature             (U)[/b]]1d20 [b]+0 [/b] [/dice]
+[dice=[b]Occultism          (T)[/b]]1d20 [b]+8 [/b] [/dice]
+[dice=[b]Performance        (T)[/b]]1d20 [b]+9 [/b] [/dice]
+[dice=[b]Religion           (U)[/b]]1d20 [b]+0 [/b] [/dice]
+[dice=[b]Society            (U)[/b]]1d20 [b]+2 [/b] [/dice]
+[dice=[b]Stealth            (T)[/b]]1d20 [b]+9 [/b] [/dice]
+[dice=[b]Survival           (T)[/b]]1d20 [b]+6 [/b] [/dice]
+[dice=[b]Thievery           (E)[/b]]1d20 [b]+11[/b] [/dice]
+[/spoiler]
+
+[b]Non-Standard Skill Bonuses[/b]
+
+[b]Languages[/b] Common
+
+[spoiler=Special Abilities]
+------------------------------
+[b]SPECIAL ABILITIES[/b]
+------------------------------
+[url=https://2e.aonprd.com/HuntersEdge.aspx?ID=1]Hunter's Edge - Flurry[/url]
+You have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 (–2 with an agile weapon) on your second attack of the turn instead of –5, and –6 (–4 with an agile weapon) on your third or subsequent attack of the turn, instead of –10.
+
+[/spoiler]
+
+[spoiler=Spells]
+------------------------------
+[b]Spells[/b]
+------------------------------
+[b]0th (at will)[/b] 
+
+[b]1st (0/day)[/b] [/spoiler]
+
+[spoiler=Gear/Possessions]
+------------------------------
+[b]GEAR/POSSESSIONS[/b]
+------------------------------
+[b]Carrying Capacity[/b]
+[b]Light[/b] 0-33 lb. [b]Medium[/b] 34-67 lb. [b]Heavy[/b] 68-100 lb.
+[b]Current Load Carried[/b] 0 lb.
+
+[b]Money[/b] 0 GP 0 SP 0 CP
+[/spoiler]
+
+[spoiler=Background]
+[/spoiler]
+
+[spoiler=Appearance and Personality]
+[/spoiler]
+
