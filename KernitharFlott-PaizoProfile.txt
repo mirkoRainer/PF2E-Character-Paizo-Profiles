@@ -12,34 +12,38 @@ CG Medium Humanoid (Elf)
 [b]OFFENSE[/b]
 ------------------------------
 [b]Speed[/b] 45 ft. (Elf 30ft + Fleet 5ft + Nimble Elf 5ft + Boots 5ft)
+[b]Ranger DC[/b] 24
 [spoiler=[url=https://2e.aonprd.com/Weapons.aspx?ID=50]+1 Striking Elven Curved Blade (Elf, Finesse, [url=https://2e.aonprd.com/Traits.aspx?ID=180]Forceful[/url], Uncommon)[/url]]
-[dice=[i]Elven Curved Blade[/i] (1)]1d20+17[/dice][dice=Damage]2d8[/dice]
-[dice=[i]Elven Curved Blade[/i] (2)]1d20+12[/dice][dice=Damage]2d8+2[/dice]
-[dice=[i]Elven Curved Blade[/i] (3)]1d20+7[/dice][dice=Damage]2d8+4[/dice]
-[dice=[i]Elven Curved Blade vs Prey[/i] (1)]1d20+17[/dice][dice=Damage]2d8[/dice]
-[dice=[i]Elven Curved Blade vs Prey[/i] (2)]1d20+14[/dice][dice=Damage]2d8+2[/dice]
-[dice=[i]Elven Curved Blade vs Prey[/i] (3)]1d20+11[/dice][dice=Damage]2d8+4[/dice]
+[dice=[i]Elven Curved Blade[/i] (1)]1d20+17[/dice][dice=Damage]2d8+2[/dice]
+[dice=[i]Elven Curved Blade[/i] (2)]1d20+12[/dice][dice=Damage]2d8+4[/dice]
+[dice=[i]Elven Curved Blade[/i] (3)]1d20+7[/dice][dice=Damage]2d8+6[/dice]
+[dice=[i]Elven Curved Blade vs Prey[/i] (1)]1d20+17[/dice][dice=Damage]2d8+2[/dice]
+[dice=[i]Elven Curved Blade vs Prey[/i] (2)]1d20+14[/dice][dice=Damage]2d8+4[/dice]
+[dice=[i]Elven Curved Blade vs Prey[/i] (3)]1d20+11[/dice][dice=Damage]2d8+6[/dice]
 [/spoiler]
 [spoiler=Dagger (Agile, Finesse, Thrown 10ft, Versatile S)]
-[dice=[i]Dagger[/i] (1)]1d20+16[/dice][dice=Damage]1d4[/dice]
-[dice=[i]Dagger[/i] (2)]1d20+12[/dice][dice=Damage]1d4[/dice]
-[dice=[i]Dagger[/i] (3)]1d20+8[/dice][dice=Damage]1d4[/dice]
-[dice=[i]Dagger vs Prey[/i] (1)]1d20+16[/dice][dice=Damage]1d4[/dice]
-[dice=[i]Dagger vs Prey[/i] (2)]1d20+14[/dice][dice=Damage]1d4[/dice]
-[dice=[i]Dagger vs Prey[/i] (3)]1d20+12[/dice][dice=Damage]1d4[/dice]
+[dice=[i]Dagger[/i] (1)]1d20+16[/dice][dice=Damage]1d4+2[/dice]
+[dice=[i]Dagger[/i] (2)]1d20+12[/dice][dice=Damage]1d4+2[/dice]
+[dice=[i]Dagger[/i] (3)]1d20+8[/dice][dice=Damage]1d4+2[/dice]
+[dice=[i]Dagger vs Prey[/i] (1)]1d20+16[/dice][dice=Damage]1d4+2[/dice]
+[dice=[i]Dagger vs Prey[/i] (2)]1d20+14[/dice][dice=Damage]1d4+2[/dice]
+[dice=[i]Dagger vs Prey[/i] (3)]1d20+12[/dice][dice=Damage]1d4+2[/dice]
 [/spoiler]
-[spoiler=Longbow]
-[dice=[i]Longbow[/i] (1)]1d20+16[/dice][dice=Damage]1d8[/dice]
-[dice=[i]Longbow[/i] (2)]1d20+11[/dice][dice=Damage]1d8[/dice]
-[dice=[i]Longbow[/i] (3)]1d20+6[/dice][dice=Damage]1d8[/dice]
-[dice=[i]Longbow vs Prey[/i] (1)]1d20+16[/dice][dice=Damage]1d8[/dice]
-[dice=[i]Longbow vs Prey[/i] (2)]1d20+13[/dice][dice=Damage]1d8[/dice]
-[dice=[i]Longbow vs Prey[/i] (3)]1d20+10[/dice][dice=Damage]1d8[/dice]
+[spoiler=Spell Attack]
+[dice=[i]Spell Attack[/i] (1)]1d20+13[/dice]
+[dice=[i]Spell Attack[/i] (2)]1d20+8[/dice]
+[dice=[i]Spell vs Prey[/i] (1)]1d20+13[/dice]
+[dice=[i]Spell vs Prey[/i] (2)]1d20+10[/dice]
 [/spoiler]
 ------------------------------
 [b]STATISTICS[/b]
 ------------------------------
-[b]Str[/b] 10, [b]Dex[/b] 19, [b]Con[/b] 14, [b]Int[/b] 16, [b]Wis[/b] 16, [b]Cha[/b] 10
+[b]Str[/b] 10 [i]+0[/i]
+[b]Dex[/b] 19 [i]+4[/i]
+[b]Con[/b] 14 [i]+2[/i]
+[b]Int[/b] 16 [i]+3[/i]
+[b]Wis[/b] 16 [i]+3[/i]
+[b]Cha[/b] 10 [i]+0[/i]
 [spoiler=Skills]
 [dice=[b]Acrobatics         (T)[/b]]1d20 [b]+14[/b] [/dice]
 [dice=[b]Arcana             (U)[/b]]1d20 [b]+3 [/b] [/dice]
@@ -66,35 +70,182 @@ CG Medium Humanoid (Elf)
 ------------------------------
 [b]SPECIAL ABILITIES[/b]
 ------------------------------
-[spoiler=[url=]Woodland Elf[url]]
-[spoiler]
+
+[b]Ancestry[/b]
+[spoiler=Woodland Elf]
+[/spoiler]
+[spoiler=Nimble Elf]
+[/spoiler]
+[spoiler=Elven Instincts]
+[/spoiler]
+[spoiler=Low-Light Vision]
+[/spoiler]
+
+[b]Class Features[/b]
+[spoiler=Hunt Prey]
+[/spoiler]
+[spoiler=Hunter's Edge Flurry]
+[url=https://2e.aonprd.com/HuntersEdge.aspx?ID=1]Hunter's Edge - Flurry[/url]
+You have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 (–2 with an agile weapon) on your second attack of the turn instead of –5, and –6 (–4 with an agile weapon) on your third or subsequent attack of the turn, instead of –10.
+[/spoiler]
+[spoiler=Monster Hunter]
+[/spoiler]
+[spoiler=Druid Dedication]
+Wild Order
+[/spoiler]
+[spoiler=Iron Will]
+[/spoiler]
+[spoiler=Basic Wilding]
+Wild Shape
+[/spoiler]
+[spoiler=Trackless Step]
+[/spoiler]
+[spoiler=Snare Specialist]
+[/spoiler]
+[spoiler=Evasion]
+[/spoiler]
+[spoiler=Warden's Boon]
+[/spoiler]
+
+[b]Skill Feats[/b]
+[spoiler=Experienced Tracker]
+[/spoiler]
+[spoiler=Snare Crafting]
+[/spoiler]
+[spoiler=Terrain Expertise]
+[/spoiler]
+[spoiler=Forager]
+[/spoiler]
+[spoiler=Planar Survival]
+[/spoiler]
+
+[b]General Feats[/b]
+[spoiler=Fleet]
+[/spoiler]
+[spoiler=Expeditious Search]
+[/spoiler]
 [url=https://2e.aonprd.com/HuntersEdge.aspx?ID=1]Hunter's Edge - Flurry[/url]
 You have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 (–2 with an agile weapon) on your second attack of the turn instead of –5, and –6 (–4 with an agile weapon) on your third or subsequent attack of the turn, instead of –10.
 
-[/spoiler]
 
-[spoiler=Spells]
 ------------------------------
 [b]Spells[/b]
 ------------------------------
-[b]0th (at will)[/b] 
+ [b]Focus Points:[/b] 1/1
+ [spoiler=Wild Shape][/spoiler]
+ [spoiler=Animal Form][/spoiler]
+ [spoiler=Pest Form][/spoiler]
 
-[b]1st (0/day)[/b] [/spoiler]
+[b]Primal DC: 23[/b]
+[b]Spell Attack[/b] +13
 
-[spoiler=Gear/Possessions]
+[spoiler=Cantrips Prepared]
+[s][url=https://2e.aonprd.com/Spells.aspx?ID=3]Acid Splash[/url][/s]
+[s][url=https://2e.aonprd.com/Spells.aspx?ID=58]Dancing Lights[/url][/s]
+[s][url=https://2e.aonprd.com/Spells.aspx?ID=66]Detect Magic[/url][/s]
+[s][url=https://2e.aonprd.com/Spells.aspx?ID=79]Disrupt Undead[/url][/s]
+[s][url=https://2e.aonprd.com/Spells.aspx?ID=97]Electric Arc[/url][/s]
+[s][url=https://2e.aonprd.com/Spells.aspx?ID=142]Guidance[/url][/s]
+[url=https://2e.aonprd.com/Spells.aspx?ID=169]Know Direction[/url]
+[s][url=https://2e.aonprd.com/Spells.aspx?ID=171]Light[/url][/s]
+[s][url=https://2e.aonprd.com/Spells.aspx?ID=229]Prestidigitation[/url][/s]
+[s][url=https://2e.aonprd.com/Spells.aspx?ID=236]Produce Flame[/url][/s]
+[url=https://2e.aonprd.com/Spells.aspx?ID=245]Ray of Frost[/url]
+[s][s][url=https://2e.aonprd.com/Spells.aspx?ID=246]Read Aura[/url][/s]
+[s][url=https://2e.aonprd.com/Spells.aspx?ID=286]Sigil[/url][/s]
+[s][url=https://2e.aonprd.com/Spells.aspx?ID=307]Stabilize[/url][/s]
+[s][url=https://2e.aonprd.com/Spells.aspx?ID=330]Tanglefoot[/url][/s]
+[/spoiler]
 ------------------------------
 [b]GEAR/POSSESSIONS[/b]
 ------------------------------
-[b]Carrying Capacity[/b]
-[b]Light[/b] 0-33 lb. [b]Medium[/b] 34-67 lb. [b]Heavy[/b] 68-100 lb.
-[b]Current Load Carried[/b] 0 lb.
+[b]Encumbered[/b] 5 Bulk
+[b]Max[/b] 10 Bulk
+[b]Current Load Carried[/b] 4.4 Bulk
 
-[b]Money[/b] 0 GP 0 SP 0 CP
+[b]Worn[/b]
++1 Leather Armor
++1 Striking Elven Curved Sword
+[spoiler=Hat of Disguise][/spoiler]
+[spoiler=Boots of Bounding][/spoiler]
+[spoiler=Bracers of Missile Deflection][/spoiler]
+[spoiler=Tracker's Goggles][/spoiler]
+[spoiler=Bandolier (8 Light Items)]
+    Feather Token (Ladder)
+    2nd Level Wand of Longstrider
+    Silversheen
+    Manacles (Simple)
+    Alarm Snare
+    Striking Snare
+    Grasping Snare
+    Warning Snare
 [/spoiler]
+[spoiler=Bag of Holding I]
+[i]25 Bulk Total[/i]
+[i]Current:[/i]
+Climbing Kit:           1
+Flint and Steel:        0
+Healer's Tools:         1
+Insistent Door Knocker: 1
+Manacles (Simple x2:    0
+Silversheen:            0.1
+Snare Kit:              2
+Thieve's Tools:         0.1
+
+[b]Total:[/b]           5.2
+[/spoiler]
+
+[b]Money[/b] 0 GP 2 SP 5 CP
+
+------------------------------
+[b]SNARES[/b]
+------------------------------
+[spoiler=Alarm Snare]
+You create an alarm snare by rigging one or more noisy objects to a trip wire or pressure plate. When you create an alarm snare, you designate a range between 100 to 500 feet at which it can be heard. When a Small or larger creature enters the square, the snare makes a noise loud enough that it can be heard by all creatures in the range you designated.
+[/spoiler]
+
+[spoiler=Hampering Snare]
+You arrange brambles, wires, sticky goo, or other materials to interfere with a creature’s movement. The square with this snare, as well as three adjacent squares (to form a 10-foot-by-10-foot area), become difficult terrain when the first creature enters the snare’s square. The difficult terrain affects the creature’s movement right away, including its movement into the triggering square, and it lasts for 1d4 rounds after the snare is triggered. A creature can use an Interact action to clear the difficult terrain out of a single square early.
+[/spoiler]
+
+[spoiler=Striking Snare]
+You affix a trip line or other trigger to a group of either stones or wooden stakes to strike a creature that enters the snare’s square. The creature must attempt a DC 26 basic Reflex saving throw. If you choose stones, the snare deals 9d8 bludgeoning damage; if you choose spikes, it deals 9d8 piercing damage.
+[/spoiler]
+
+[spoiler=Grasping Snare]
+You rig vines and ropes to hold a creature in place. The first creature to enter the square must attempt a DC 26 Reflex save, with the following effects.
+
+[b]Critical Success[/b] The creature is unaffected.
+[b]Success[/b] The creature takes a –5-foot status penalty to its Speed for 1 minute or until it Escapes (DC 26).
+[b]Failure[/b] The creature is immobilized for 1 round, then takes a –5-foot status penalty to its Speed for 1 minute. Both effects end early if it Escapes (DC 26).
+[b]Critical Failure[/b] The creature is immobilized for 1 minute or until it Escapes (DC 26).
+[/spoiler]
+
+[spoiler=Fang Snare]
+You set snake fangs, poison stingers, or other venomous animal parts in the ground where they can be touched or stepped on by a creature that enters the snare’s square. The first creature to enter the square must attempt a DC 20 Reflex saving throw.
+
+[b]Success[/b] The target is unaffected.
+[b]Failure[/b] The target takes 1 piercing damage and 2d8 poison damage.
+[b]Critical Failure[/b] The target takes 2 piercing damage and 4d8 poison damage.
+[/spoiler]
+
+[spoiler=Warning Snare]
+Using materials specific to the area, you connect a sound‑making component to a trip wire or a pressure plate. This snare is like an alarm snare, but its subtle sound blends into ambient noise. You can detect this sound as long as you’re within 1,000 feet of the snare and aren’t prevented from hearing it. Other creatures in that area who are searching might notice the sound if their Perception check result meets or exceeds your Craft DC.
+[/spoiler]
+[spoiler=Stalker Bane Snare]
+This snare explodes in a burst of cloying powder that can cling to a creature stepping into its square. A creature that enters the square of a stalker bane snare must attempt a DC 20 Reflex save.
+
+[b]Critical Success[/b] The target is unaffected.
+[b]Success[/b] Powder sticks to the target, causing it to leave behind telltale footprints. Being invisible makes the target hidden, rather than undetected, to creatures that could see it if it weren’t invisible.
+[b]Failure[/b] Powder clumps on the target, constantly flaking away. Being invisible makes the target concealed, rather than hidden or undetected, to creatures that could see it if it weren’t invisible.
+[b]Critical Failure[/b] As failure, and the creature is blinded until the end of its next turn.
+[/spoiler]
+
 
 [spoiler=Background]
 [/spoiler]
 
 [spoiler=Appearance and Personality]
+[url=https://i.imgur.com/LsTN5Bu.jpg]Link[/url]
 [/spoiler]
 
