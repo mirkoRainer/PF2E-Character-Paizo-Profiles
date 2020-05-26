@@ -1,6 +1,10 @@
-Woodland Elf Flurry Ranger with Druid Dedication 8
+[b]AC[/b] 26 | [b]HP[/b] 102/102 | [b]Fort (E)[/b] +14, [b]Ref (M)[/b] +18, [b]Will (E)[/b] +15 | [b]Focus[/b] 1 | [b]Perception:[/b] +17 (+19 for Initiative) 
+| [b]Cantrips:[/b] Know Direction, Ray of Frost | [spoiler=Snares] Alarm Snare, Striking Snare, Grasping Snare, Warning Snare [/spoiler]
+
+
+Woodland Elf Ranger (Flurry) with Druid Dedication 8
 CG Medium Humanoid (Elf)
-[b]Worshiper of Ketephys (The Hunter)[/b]
+Worshiper of Ketephys (The Hunter)
 [b]Perception:[/b] +17 (+19 for Initiative)
 ------------------------------
 [b]DEFENSE[/b]
@@ -13,7 +17,8 @@ CG Medium Humanoid (Elf)
 ------------------------------
 [b]Speed[/b] 45 ft. (Elf 30ft + Fleet 5ft + Nimble Elf 5ft + Boots 5ft)
 [b]Ranger DC[/b] 24
-[spoiler=[url=https://2e.aonprd.com/Weapons.aspx?ID=50]+1 Striking Elven Curved Blade (Elf, Finesse, [url=https://2e.aonprd.com/Traits.aspx?ID=180]Forceful[/url], Uncommon)[/url]]
+[spoiler=Elven Curved Blade]
+[url=https://2e.aonprd.com/Weapons.aspx?ID=50]+1 Striking Elven Curved Blade[/url] (Elf, Finesse, [url=https://2e.aonprd.com/Traits.aspx?ID=180]Forceful[/url], Uncommon)[/url]
 [dice=[i]Elven Curved Blade[/i] (1)]1d20+17[/dice][dice=Damage]2d8+2[/dice]
 [dice=[i]Elven Curved Blade[/i] (2)]1d20+12[/dice][dice=Damage]2d8+4[/dice]
 [dice=[i]Elven Curved Blade[/i] (3)]1d20+7[/dice][dice=Damage]2d8+6[/dice]
@@ -21,7 +26,8 @@ CG Medium Humanoid (Elf)
 [dice=[i]Elven Curved Blade vs Prey[/i] (2)]1d20+14[/dice][dice=Damage]2d8+4[/dice]
 [dice=[i]Elven Curved Blade vs Prey[/i] (3)]1d20+11[/dice][dice=Damage]2d8+6[/dice]
 [/spoiler]
-[spoiler=Dagger (Agile, Finesse, Thrown 10ft, Versatile S)]
+[spoiler=Dagger]
+(Agile, Finesse, Thrown 10ft, Versatile S)
 [dice=[i]Dagger[/i] (1)]1d20+16[/dice][dice=Damage]1d4+2[/dice]
 [dice=[i]Dagger[/i] (2)]1d20+12[/dice][dice=Damage]1d4+2[/dice]
 [dice=[i]Dagger[/i] (3)]1d20+8[/dice][dice=Damage]1d4+2[/dice]
@@ -44,6 +50,7 @@ CG Medium Humanoid (Elf)
 [b]Int[/b] 16 [i]+3[/i]
 [b]Wis[/b] 16 [i]+3[/i]
 [b]Cha[/b] 10 [i]+0[/i]
+
 [spoiler=Skills]
 [dice=[b]Acrobatics         (T)[/b]]1d20 [b]+14[/b] [/dice]
 [dice=[b]Arcana             (U)[/b]]1d20 [b]+3 [/b] [/dice]
@@ -66,67 +73,35 @@ CG Medium Humanoid (Elf)
 
 [b]Languages[/b] Common(Taldan), Elven, Sylvan, Druidic, Draconic
 
-[spoiler=Special Abilities]
 ------------------------------
 [b]SPECIAL ABILITIES[/b]
 ------------------------------
-
-[b]Ancestry[/b]
-[spoiler=Woodland Elf]
+[spoiler=Special Abilities]
+[b]Woodland Elf[/b]
+[b]Nimble Elf[/b]
+[b]Elven Instincts[/b]
+[b]Low-Light Vision[/b]
+[b]Hunt Prey[/b]
+[b][url=https://2e.aonprd.com/HuntersEdge.aspx?ID=1]Hunter's Edge - Flurry[/url][/b]
+You have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 (–2 with an agile weapon) on your second attack of the turn instead of –5, and –6 (–4 with an agile weapon) on your third or subsequent attack of the turn, instead of –10.[/b]
+[b]Monster Hunter[/b]
+[b]Druid Dedication]
+Wild Order[/b]
+[b]Iron Will[/b]
+[b]Basic Wilding]
+Wild Shape[/b]
+[b]Trackless Step[/b]
+[b]Snare Specialist[/b]
+[b]Evasion[/b]
+[b]Warden's Boon[/b]
+[b]Experienced Tracker[/b]
+[b]Snare Crafting[/b]
+[b]Terrain Expertise[/b]
+[b]Forager[/b]
+[b]Planar Survival[/b]
+[b]Fleet[/b]
+[b]Expeditious Search[/b]
 [/spoiler]
-[spoiler=Nimble Elf]
-[/spoiler]
-[spoiler=Elven Instincts]
-[/spoiler]
-[spoiler=Low-Light Vision]
-[/spoiler]
-
-[b]Class Features[/b]
-[spoiler=Hunt Prey]
-[/spoiler]
-[spoiler=Hunter's Edge Flurry]
-[url=https://2e.aonprd.com/HuntersEdge.aspx?ID=1]Hunter's Edge - Flurry[/url]
-You have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 (–2 with an agile weapon) on your second attack of the turn instead of –5, and –6 (–4 with an agile weapon) on your third or subsequent attack of the turn, instead of –10.
-[/spoiler]
-[spoiler=Monster Hunter]
-[/spoiler]
-[spoiler=Druid Dedication]
-Wild Order
-[/spoiler]
-[spoiler=Iron Will]
-[/spoiler]
-[spoiler=Basic Wilding]
-Wild Shape
-[/spoiler]
-[spoiler=Trackless Step]
-[/spoiler]
-[spoiler=Snare Specialist]
-[/spoiler]
-[spoiler=Evasion]
-[/spoiler]
-[spoiler=Warden's Boon]
-[/spoiler]
-
-[b]Skill Feats[/b]
-[spoiler=Experienced Tracker]
-[/spoiler]
-[spoiler=Snare Crafting]
-[/spoiler]
-[spoiler=Terrain Expertise]
-[/spoiler]
-[spoiler=Forager]
-[/spoiler]
-[spoiler=Planar Survival]
-[/spoiler]
-
-[b]General Feats[/b]
-[spoiler=Fleet]
-[/spoiler]
-[spoiler=Expeditious Search]
-[/spoiler]
-[url=https://2e.aonprd.com/HuntersEdge.aspx?ID=1]Hunter's Edge - Flurry[/url]
-You have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 (–2 with an agile weapon) on your second attack of the turn instead of –5, and –6 (–4 with an agile weapon) on your third or subsequent attack of the turn, instead of –10.
-
 
 ------------------------------
 [b]Spells[/b]
