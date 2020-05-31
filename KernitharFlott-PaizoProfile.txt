@@ -149,9 +149,50 @@ You have trained to unleash a devastating flurry of attacks upon your prey. Your
 ------------------------------
 ------------------------------
  [b]Focus Points:[/b] 1/1
- [spoiler=Wild Shape][/spoiler]
- [spoiler=Animal Form][/spoiler]
- [spoiler=Pest Form][/spoiler]
+ [spoiler=Wild Shape]
+ [b]Cast[/b] Two Actions somatic, verbal
+[b]Duration[/b] 1 minute (or longer)
+You infuse yourself with primal essence and transform yourself into another form. You can polymorph into any form listed in pest form, which lasts 10 minutes. All other wild shape forms last 1 minute. You can add more forms to your wild shape list with druid feats; your feat might grant you some or all of the forms from a given polymorph spell. When you transform into a form granted by a spell, you gain all the effects of the form you chose from a version of the spell heightened to wild shape's level. Wild shape allows you to use your own shapeshifting training more easily than most polymorph spells. When you choose to use your own attack modifier while polymorphed instead of the form's default attack modifier, you gain a +2 status bonus to your attack rolls.
+[b]Heightened (2nd)[/b] You can also wild shape into the forms listed in animal form.
+ [/spoiler]
+ [spoiler=Animal Form]
+ [b]Cast[/b] Two Actions somatic, verbal
+[b]Duration[/b] 1 minute
+You call upon primal energy to transform yourself into a Medium animal battle form. When you first cast this spell, choose ape, bear, bull, canine, cat, deer, frog, shark, or snake. You can decide the specific type of animal (such as lion or snow leopard for cat), but this has no effect on the form's Size or statistics. While in this form, you gain the animal trait. You can Dismiss the spell.
+
+You gain the following statistics and abilities regardless of which battle form you choose:
+AC = 16 + your level. Ignore your armor's check penalty and Speed reduction.
+5 temporary Hit Points.
+Low-light vision and imprecise scent 30 feet.
+One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +9, and your damage bonus is +1. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your unarmed attack bonus is higher, you can use it instead.
+Athletics modifier of +9, unless your own modifier is higher.
+You also gain specific abilities based on the type of animal you choose:
+[b]Ape[/b] Speed 25 feet, climb Speed 20 feet; Melee Single Action fist, Damage 2d6 bludgeoning.
+[b]Bear[/b] Speed 30 feet; Melee Single Action jaws, Damage 2d8 piercing; Melee Single Action claw (agile), Damage 1d8 slashing.
+[b]Bull[/b] Speed 30 feet; MeleeSingle Action horn , Damage 2d8 piercing.
+[b]Canine[/b] Speed 40 feet; Melee Single Action jaws, Damage 2d8 piercing.
+[b]Cat[/b] Speed 40 feet; MeleeSingle Action jaws, Damage 2d6 piercing; Melee Single Action claw (agile), Damage 1d10 slashing.
+[b]Deer[/b] Speed 50 feet; MeleeSingle Action antler , Damage 2d6 piercing.
+[b]Frog[/b] Speed 25 feet, swim Speed 25 feet; MeleeSingle Action jaws, Damage 2d6 bludgeoning; Melee Single Action tongue (reach 15 feet), Damage 2d4 bludgeoning.
+[b]Shark[/b] swim Speed 35 feet; Melee Single Action jaws, Damage 2d8 piercing; breathe underwater but not in air.
+[b]Snake[/b] Speed 20 feet, climb Speed 20 feet, swim Speed 20 feet; Melee Single Action fangs , Damage 2d4 piercing plus 1d6 poison.
+[b]Heightened[/b] (3rd) You instead gain 10 temporary HP, AC = 17 + your level, attack modifier +14, damage bonus +5, and Athletics +14.
+[b]Heightened[/b] (4th) Your battle form is Large and your attacks have 10-foot reach. You must have enough space to expand into or the spell is lost. You instead gain 15 temporary HP, AC = 18 + your level, attack modifier +16, damage bonus +9, and Athletics +16.
+[b]Heightened[/b] (5th) Your battle form is Huge and your attacks have 15-foot reach. You must have enough space to expand into or the spell is lost. You instead gain 20 temporary HP, AC = 18 + your level, attack modifier +18, damage bonus +7 and double the number of damage dice, and Athletics +20.
+ [/spoiler]
+ [spoiler=Pest Form]
+ [b]Cast[/b] Two Actions somatic, verbal
+[b]Duration[/b] 10 minutes
+You transform into a the battle form of a Tiny animal, such as a cat, insect, lizard, or rat. You can decide the specific type of animal (such as a rat or praying mantis), but this has no effect on the form's Size or statistics. While in this form, you gain the animal trait. You can Dismiss the spell.
+
+You gain the following statistics and abilities:
+AC = 15 + your level. Ignore your armor's check penalty and Speed reduction.
+Speed 10 feet.
+Weakness 5 to physical damage. (If you take physical damage in this form, you take 5 additional damage.)
+Low-light vision and imprecise scent 30 feet.
+Acrobatics and Stealth modifiers of +10, unless your own modifier is higher; Athletics modifier –4.
+[b]Heightened (4th)[/b] You can turn into a flying creature, such as a bird, which grants you a fly Speed of 20 feet.
+ [/spoiler]
 
 [b]Primal DC: 23[/b]
 [b]Spell Attack[/b] +13
@@ -168,7 +209,7 @@ You have trained to unleash a devastating flurry of attacks upon your prey. Your
 [s][url=https://2e.aonprd.com/Spells.aspx?ID=229]Prestidigitation[/url][/s]
 [s][url=https://2e.aonprd.com/Spells.aspx?ID=236]Produce Flame[/url][/s]
 [url=https://2e.aonprd.com/Spells.aspx?ID=245]Ray of Frost[/url]
-[s][s][url=https://2e.aonprd.com/Spells.aspx?ID=246]Read Aura[/url][/s]
+[s][url=https://2e.aonprd.com/Spells.aspx?ID=246]Read Aura[/url][/s]
 [s][url=https://2e.aonprd.com/Spells.aspx?ID=286]Sigil[/url][/s]
 [s][url=https://2e.aonprd.com/Spells.aspx?ID=307]Stabilize[/url][/s]
 [s][url=https://2e.aonprd.com/Spells.aspx?ID=330]Tanglefoot[/url][/s]
