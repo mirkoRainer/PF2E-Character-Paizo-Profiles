@@ -1,19 +1,19 @@
-[b]AC[/b] 26 | [b]HP[/b] 102/102 | [b]Fort (E)[/b] +14, [b]Ref (M)[/b] +18, [b]Will (E)[/b] +15 | [b]Focus[/b] 1 | [b]Perception:[/b] +17 (+19 for Initiative) 
-| [b]Cantrips:[/b] Know Direction, Ray of Frost | [spoiler=Snares] Alarm Snare, Striking Snare, Grasping Snare, Warning Snare [/spoiler]
-
-
 Woodland Elf Ranger (Flurry) with Druid Dedication 8
 CG Medium Humanoid (Elf)
 Worshiper of Ketephys (The Hunter)
 [b]Perception:[/b] +17 (+19 for Initiative)
 ------------------------------
+------------------------------
 [b]DEFENSE[/b]
+------------------------------
 ------------------------------
 [b]AC[/b] 26 
 [b]HP[/b] 102/102 
 [b]Fort (E)[/b] +14, [b]Ref (M)[/b] +18, [b]Will (E)[/b] +15 
 ------------------------------
+------------------------------
 [b]OFFENSE[/b]
+------------------------------
 ------------------------------
 [b]Speed[/b] 45 ft. (Elf 30ft + Fleet 5ft + Nimble Elf 5ft + Boots 5ft)
 [b]Ranger DC[/b] 24
@@ -42,7 +42,9 @@ Worshiper of Ketephys (The Hunter)
 [dice=[i]Spell vs Prey[/i] (2)]1d20+10[/dice]
 [/spoiler]
 ------------------------------
+------------------------------
 [b]STATISTICS[/b]
+------------------------------
 ------------------------------
 [b]Str[/b] 10 [i]+0[/i]
 [b]Dex[/b] 19 [i]+4[/i]
@@ -74,37 +76,77 @@ Worshiper of Ketephys (The Hunter)
 [b]Languages[/b] Common(Taldan), Elven, Sylvan, Druidic, Draconic
 
 ------------------------------
+------------------------------
 [b]SPECIAL ABILITIES[/b]
+------------------------------
 ------------------------------
 [spoiler=Special Abilities]
 [b]Woodland Elf[/b]
+You’re adapted to life in the forest or the deep jungle, and you know how to climb trees and use foliage to your advantage. When Climbing trees, vines, and other foliage, you move at half your Speed on a success and at full Speed on a critical success (and you move at full Speed on a success if you have Quick Climb). This doesn’t affect you if you’re using a climb Speed.
+
+You can always use the Take Cover action when you are within forest terrain to gain cover, even if you’re not next to an obstacle you can Take Cover behind.
+
 [b]Nimble Elf[/b]
+Your muscles are tightly honed. Your Speed increases by 5 feet.
+
 [b]Elven Instincts[/b]
+Your senses let you react rapidly. You gain a +2 circumstance bonus to Perception checks made as initiative rolls. Additionally, if your initiative roll result is tied with that of an opponent, you go first, regardless of whether you rolled Perception or not.
+
 [b]Low-Light Vision[/b]
-[b]Hunt Prey[/b]
+A creature with low-light vision can see in dim light as though it were bright light, so it ignores the concealed condition due to dim light.
+
+[b]Hunt Prey[/b] 
+1 Action
+[i]CONCENTRATE
+RANGER[/i]
+You designate a single creature as your prey and focus your attacks against that creature. You must be able to see or hear the prey, or you must be tracking the prey during exploration.
+
+You gain a +2 circumstance bonus to Perception checks when you Seek your prey and a +2 circumstance bonus to Survival checks when you Track your prey. You also ignore the penalty for making ranged attacks within your second range increment against the prey you’re hunting.
+
+You can have only one creature designated as your prey at a time. If you use Hunt Prey against a creature when you already have a creature designated, the prior creature loses the designation and the new prey gains the designation. Your designation lasts until your next daily preparations.
+
 [b][url=https://2e.aonprd.com/HuntersEdge.aspx?ID=1]Hunter's Edge - Flurry[/url][/b]
 You have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 (–2 with an agile weapon) on your second attack of the turn instead of –5, and –6 (–4 with an agile weapon) on your third or subsequent attack of the turn, instead of –10.[/b]
+
 [b]Monster Hunter[/b]
-[b]Druid Dedication]
-Wild Order[/b]
+
+[b]Druid Dedication[/b]
+
+[b]Wild Order[/b]
+
 [b]Iron Will[/b]
-[b]Basic Wilding]
-Wild Shape[/b]
+
+[b]Basic Wilding[/b]
+
+[b]Wild Shape[/b]
+
 [b]Trackless Step[/b]
+
 [b]Snare Specialist[/b]
+
 [b]Evasion[/b]
+
 [b]Warden's Boon[/b]
+
 [b]Experienced Tracker[/b]
+
 [b]Snare Crafting[/b]
+
 [b]Terrain Expertise[/b]
+
 [b]Forager[/b]
+
 [b]Planar Survival[/b]
+
 [b]Fleet[/b]
+
 [b]Expeditious Search[/b]
 [/spoiler]
 
 ------------------------------
+------------------------------
 [b]Spells[/b]
+------------------------------
 ------------------------------
  [b]Focus Points:[/b] 1/1
  [spoiler=Wild Shape][/spoiler]
@@ -132,7 +174,9 @@ Wild Shape[/b]
 [s][url=https://2e.aonprd.com/Spells.aspx?ID=330]Tanglefoot[/url][/s]
 [/spoiler]
 ------------------------------
+------------------------------
 [b]GEAR/POSSESSIONS[/b]
+------------------------------
 ------------------------------
 [b]Encumbered[/b] 5 Bulk
 [b]Max[/b] 10 Bulk
@@ -173,7 +217,9 @@ Thieve's Tools:         0.1
 [b]Money[/b] 0 GP 2 SP 5 CP
 
 ------------------------------
+------------------------------
 [b]SNARES[/b]
+------------------------------
 ------------------------------
 [spoiler=Alarm Snare]
 You create an alarm snare by rigging one or more noisy objects to a trip wire or pressure plate. When you create an alarm snare, you designate a range between 100 to 500 feet at which it can be heard. When a Small or larger creature enters the square, the snare makes a noise loud enough that it can be heard by all creatures in the range you designated.
