@@ -7,6 +7,15 @@ Skills Acro +11, Arcn +8, Athl +7, Crft +8, Dcptn +9, Dplmcy +9, Intim +9, Lore:
 Gender	
 NG | Gnome Rogue (Bard Dedication) | AC 19 | HP 23/48 | Resistance: Negative 2 | Fort +8 | Ref +11 | Will +8 | Hero Points 1 | Perc: +8 | Low-Light Vision
 
+Race	
+| Focus: 1 | Spells: DC 19 | Attack +9 | [url=https://2e.aonprd.com/Spells.aspx?ID=126]Forbidding Ward[/url] [url=https://2e.aonprd.com/Spells.aspx?ID=58]Dancing Lights[/url] |
+
+Classes/Levels	
+Skills Acro +11, Arcn +8, Athl +7, Crft +8, Dcptn +9, Dplmcy +9, Intim +9, Lore: Engineering +8, Med +6, Occult +8, Prfrmnc +9, Society +2, Stlth +9, Surv +6, Thvry +11
+
+Gender	
+NG | Gnome Rogue (Bard Dedication) | AC 19 | HP 23/48 | Resistance: Negative 2 | Fort +8 | Ref +11 | Will +8 | Hero Points 1 | Perc: +8 | Low-Light Vision
+
 Gnome Rogue (Bard) 4
 NG, Small, Gnome, Vivacious Gnome, Humanoid
 Low-Light Vision
@@ -66,10 +75,10 @@ Your supernatural connection sometimes causes you to phase from reality when und
 [dice=[b]ShortSword (2)[/b]]1d20+5[/dice]
 [dice=[b]ShortSword (3)[/b]]1d20+1[/dice]
 [dice=[b]ShortSword (P/S)Damage[/b]]1d6-1[/dice]
-[dice=[b]HandCrossbow (1)[/b]]1d20+9[/dice]
-[dice=[b]HandCrossbow (2)[/b]]1d20+5[/dice]
-[dice=[b]HandCrossbow (3)[/b]]1d20+1[/dice]
-[dice=[b]HandCrossbow (P)Damage[/b]]1d6[/dice]
+[dice=[b]Light Crossbow (1)[/b]]1d20+10[/dice]
+[dice=[b]Light Crossbow (2)[/b]]1d20+5[/dice]
+[dice=[b]Light Crossbow (3)[/b]]1d20+2[/dice]
+[dice=[b]Light Crossbow (P)Damage[/b]]1d8[/dice]
 [/spoiler]
 
 [spoiler=Skills]
@@ -109,18 +118,18 @@ Your supernatural connection sometimes causes you to phase from reality when und
 [b]Items[/b]:
 [spoiler=Worn]
 Padded Armor
-Bandolier (Thieve's Tools)
-Thieve's Tools
+Bandolier (4 potions, Scroll of Charm, Feather Token, Onyx Dog, wand of unseen servant)
+Thieves' Tools
 Book Bag
 Short Sword
-Hand Crossbow
++1 Light Crossbow
 Feather Token (Ladder)
 Whip +1 
 [/spoiler]
 [spoiler=BackPack(BookBag)]
 Snare Kit
 Healer's Tools
-[dice=[b]Healing Potion (Minor)[/b]]1d8[/dice] x2
+[dice=[b]Healing Potion (Minor)[/b]]1d8[/dice] x4
 Bedroll
 Soap
 Flint and Steel
