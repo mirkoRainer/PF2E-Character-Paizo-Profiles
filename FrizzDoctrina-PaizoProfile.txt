@@ -125,6 +125,7 @@ Short Sword
 +1 Light Crossbow
 Feather Token (Ladder)
 Whip +1 
+Necklace of Fireball I (One 6d6, two 4d6 (DC 21))
 [/spoiler]
 [spoiler=BackPack(BookBag)]
 Snare Kit
@@ -141,9 +142,9 @@ Scroll of [url=https://2e.aonprd.com/Spells.aspx?ID=34]Charm[/url]
 [url=https://2e.aonprd.com/Equipment.aspx?ID=270]Wondrous Figurine (Onyx Dog)[/url]
 [/spoiler]
 [spoiler=Coin]
-1gp
-3sp
-4cp
+24gp
+10sp
+9cp
 [/spoiler]
 --------------------
 [spoiler=Occult Spontaneous Spells] 
