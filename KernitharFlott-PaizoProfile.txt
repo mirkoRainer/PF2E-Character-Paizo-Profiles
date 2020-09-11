@@ -1,30 +1,30 @@
 Woodland Elf Ranger (Flurry) with Druid Dedication 8
 CG Medium Humanoid (Elf)
 Worshiper of Ketephys (The Hunter)
-[b]Perception:[/b] +17 (+19 for Initiative)
-------------------------------
+This formatted Character Sheet can be found: https://github.com/mirkoRainer/PF2E-Character-Paizo-Profiles
+
+[b]Perception (M):[/b] +17 (+19 for Initiative)
+[dice=Perception (M)]1d20+17[/dice]
+[dice=Perception (M) Initiative]1d20+19[/dice]
 ------------------------------
 [b]DEFENSE[/b]
-------------------------------
 ------------------------------
 [b]AC[/b] 26 
 [b]HP[/b] 102/102 
 [b]Fort (E)[/b] +14, [b]Ref (M)[/b] +18, [b]Will (E)[/b] +15 
 ------------------------------
-------------------------------
 [b]OFFENSE[/b]
-------------------------------
 ------------------------------
 [b]Speed[/b] 45 ft. (Elf 30ft + Fleet 5ft + Nimble Elf 5ft + Boots 5ft)
 [b]Ranger DC[/b] 24
 [spoiler=Elven Curved Blade]
 [url=https://2e.aonprd.com/Weapons.aspx?ID=50]+1 Striking Elven Curved Blade[/url] (Elf, Finesse, [url=https://2e.aonprd.com/Traits.aspx?ID=180]Forceful[/url], Uncommon)[/url]
 [dice=[i]Elven Curved Blade[/i] (1)]1d20+17[/dice][dice=Damage]2d8+2[/dice]
-[dice=[i]Elven Curved Blade[/i] (2)]1d20+12[/dice][dice=Damage]2d8+4[/dice]
-[dice=[i]Elven Curved Blade[/i] (3)]1d20+7[/dice][dice=Damage]2d8+6[/dice]
+[dice=[i]Elven Curved Blade[/i] (2)]1d20+12[/dice][dice=Damage (Forceful)]2d8+4[/dice]
+[dice=[i]Elven Curved Blade[/i] (3)]1d20+7[/dice][dice=Damage (Forceful)]2d8+6[/dice]
 [dice=[i]Elven Curved Blade vs Prey[/i] (1)]1d20+17[/dice][dice=Damage]2d8+2[/dice]
-[dice=[i]Elven Curved Blade vs Prey[/i] (2)]1d20+14[/dice][dice=Damage]2d8+4[/dice]
-[dice=[i]Elven Curved Blade vs Prey[/i] (3)]1d20+11[/dice][dice=Damage]2d8+6[/dice]
+[dice=[i]Elven Curved Blade vs Prey[/i] (2)]1d20+14[/dice][dice=Damage (Forceful)]2d8+4[/dice]
+[dice=[i]Elven Curved Blade vs Prey[/i] (3)]1d20+11[/dice][dice=Damage (Forceful)]2d8+6[/dice]
 [/spoiler]
 [spoiler=Dagger]
 (Agile, Finesse, Thrown 10ft, Versatile S)
@@ -42,9 +42,16 @@ Worshiper of Ketephys (The Hunter)
 [dice=[i]Spell vs Prey[/i] (2)]1d20+10[/dice]
 [/spoiler]
 ------------------------------
+[b]Bonuses against Hunter Prey[/b]
+------------------------------
+[list]
+[*] +2 circumstance bonus to Perception checks when you Seek your prey and a +2 circumstance bonus to Survival checks when you Track your prey.
+[*]Your multiple attack penalty for attacks against your hunted prey is –3 (–2 with an agile weapon) on your second attack of the turn instead of –5, and –6 (–4 with an agile weapon) on your third or subsequent attack of the turn, instead of –10.
+[*]You gain access to the critical specialization effects of all simple and martial weapons when attacking your hunted prey.
+[*]By pointing out vulnerabilities, you grant the benefits listed in Hunt Prey and your hunter’s edge benefit to an ally until the end of their next turn. 
+[/list]
 ------------------------------
 [b]STATISTICS[/b]
-------------------------------
 ------------------------------
 [b]Str[/b] 10 [i]+0[/i]
 [b]Dex[/b] 19 [i]+4[/i]
@@ -56,7 +63,7 @@ Worshiper of Ketephys (The Hunter)
 [spoiler=Skills]
 [dice=[b]Acrobatics         (T)[/b]]1d20 [b]+14[/b] [/dice]
 [dice=[b]Arcana             (U)[/b]]1d20 [b]+3 [/b] [/dice]
-[dice=[b]Athletics          (U)[/b]]1d20 [b]+0 [/b] [/dice]
+[dice=[b]Athletics          (U)[/b]]1d20 [b]+0 [/b] [/dice] (+2 High or Long Jump)
 [dice=[b]Crafting           (E)[/b]]1d20 [b]+15[/b] [/dice]
 [dice=[b]Deception          (T)[/b]]1d20 [b]+10[/b] [/dice]
 [dice=[b]Diplomacy          (T)[/b]]1d20 [b]+10[/b] [/dice]
@@ -69,130 +76,147 @@ Worshiper of Ketephys (The Hunter)
 [dice=[b]Religion           (T)[/b]]1d20 [b]+13[/b] [/dice]
 [dice=[b]Society            (U)[/b]]1d20 [b]+3[/b] [/dice]
 [dice=[b]Stealth            (T)[/b]]1d20 [b]+14[/b] [/dice]
-[dice=[b]Survival           (M)[/b]]1d20 [b]+17[/b] [/dice]
+[dice=[b]Survival           (M)[/b]]1d20 [b]+17[/b] [/dice] (+1 Sense Direction/Track)
 [dice=[b]Thievery           (T)[/b]]1d20 [b]+14[/b] [/dice]
 [/spoiler]
 
 [b]Languages[/b] Common(Taldan), Elven, Sylvan, Druidic, Draconic
 
 ------------------------------
-------------------------------
 [b]SPECIAL ABILITIES[/b]
 ------------------------------
-------------------------------
 [spoiler=Special Abilities]
+[b][bigger]Level 1[/bigger][/b]
+[b]Monster Hunter[/b]
+You swiftly assess your prey and apply what you know. As part of the action used to Hunt your Prey, you can attempt a check to Recall Knowledge about your prey. When you critically succeed at identifying your hunted prey with Recall Knowledge, you note a weakness in the creature’s defenses. You and allies you tell gain a +1 circumstance bonus to your next attack roll against that prey. You can give bonuses from Monster Hunter only once per day against a particular creature.
 [b]Woodland Elf[/b]
 You’re adapted to life in the forest or the deep jungle, and you know how to climb trees and use foliage to your advantage. When Climbing trees, vines, and other foliage, you move at half your Speed on a success and at full Speed on a critical success (and you move at full Speed on a success if you have Quick Climb). This doesn’t affect you if you’re using a climb Speed.
-
 You can always use the Take Cover action when you are within forest terrain to gain cover, even if you’re not next to an obstacle you can Take Cover behind.
-
 [b]Nimble Elf[/b]
 Your muscles are tightly honed. Your Speed increases by 5 feet.
-
-[b]Elven Instincts[/b]
-Your senses let you react rapidly. You gain a +2 circumstance bonus to Perception checks made as initiative rolls. Additionally, if your initiative roll result is tied with that of an opponent, you go first, regardless of whether you rolled Perception or not.
-
 [b]Low-Light Vision[/b]
 A creature with low-light vision can see in dim light as though it were bright light, so it ignores the concealed condition due to dim light.
-
-[b]Hunt Prey[/b] 
-1 Action
-[i]CONCENTRATE
-RANGER[/i]
+[b]Hunt Prey[/b]
 You designate a single creature as your prey and focus your attacks against that creature. You must be able to see or hear the prey, or you must be tracking the prey during exploration.
-
 You gain a +2 circumstance bonus to Perception checks when you Seek your prey and a +2 circumstance bonus to Survival checks when you Track your prey. You also ignore the penalty for making ranged attacks within your second range increment against the prey you’re hunting.
-
 You can have only one creature designated as your prey at a time. If you use Hunt Prey against a creature when you already have a creature designated, the prior creature loses the designation and the new prey gains the designation. Your designation lasts until your next daily preparations.
-
-[b][url=https://2e.aonprd.com/HuntersEdge.aspx?ID=1]Hunter's Edge - Flurry[/url][/b]
-You have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 (–2 with an agile weapon) on your second attack of the turn instead of –5, and –6 (–4 with an agile weapon) on your third or subsequent attack of the turn, instead of –10.[/b]
-
-[b]Monster Hunter[/b]
-
-[b]Druid Dedication[/b]
-
-[b]Wild Order[/b]
-
-[b]Iron Will[/b]
-
-[b]Basic Wilding[/b]
-
-[b]Wild Shape[/b]
-
-[b]Trackless Step[/b]
-
-[b]Snare Specialist[/b]
-
-[b]Evasion[/b]
-
-[b]Warden's Boon[/b]
-
+[b]Hunter's Edge - Flurry[/b]
+You have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 (–2 with an agile weapon) on your second attack of the turn instead of –5, and –6 (–4 with an agile weapon) on your third or subsequent attack of the turn, instead of –10.
 [b]Experienced Tracker[/b]
+Tracking is second nature to you, and when necessary you can follow a trail without pause. You can Track while moving at full Speed by taking a –5 penalty to your Survival check. If you’re a master in Survival, you don’t take the –5 penalty. If you’re legendary in Survival, you no longer need to roll a new Survival check every hour when tracking, though you still need to roll whenever there are significant changes in the trail.
 
+[b][bigger]Level 2[/bigger][/b]
+[b]Druid Dedication[/b]
+You cast spells like a druid. You gain access to the Cast a Spell activity. You can prepare two common cantrips each day from the primal spell list in this book or any other cantrips you learn or discover. You’re trained in spell attack rolls and spell DCs for primal spells. Your key spellcasting ability for druid archetype spells is Wisdom, and they are primal druid spells.
+You learn the Druidic language.
+Choose an order as you would if you were a druid. You become a member of that order and are bound by its anathema, allowing you to take the order’s feats. You become trained in Nature and your order’s associated skill; for each of these skills in which you were already trained, you become trained in a skill of your choice. You don’t gain any other abilities from your choice of order.
+[b]Wild Order[/b]
+The savage, uncontrollable call of the natural world infuses you, granting you the ability to change your shape and take on the ferocious form of a wild creature. You are trained in Intimidation. You also gain the Wild Shape druid feat. You gain the wild morph order spell. Becoming fully domesticated by the temptations of civilization is anathema to your order. (This doesn’t prevent you from buying and using processed goods or staying in a city for an adventure, but you can never come to rely on these conveniences or truly call such a place your permanent home.)
 [b]Snare Crafting[/b]
+You can use the Craft activity to create snares, using the rules from page 244. When you select this feat, you add the formulas for four common snares to your formula book.
 
-[b]Terrain Expertise[/b]
-
-[b]Forager[/b]
-
-[b]Planar Survival[/b]
-
+[b][bigger]Level 3[/bigger][/b]
+[b]Iron Will[/b]
+Your training has hardened your resolve. Your proficiency rank for Will saves increases to expert.
 [b]Fleet[/b]
+You move more quickly on foot. Your Speed increases by 5 feet.
 
+[b][bigger]Level 4[/bigger][/b]
+[b]Terrain Expertise - Forest[/b]
+Your experience in navigating a certain type of terrain makes you supremely confident while doing so. You gain a +1 circumstance bonus to Survival checks in one of the following types of terrain, chosen when you select this feat: aquatic, arctic, desert, forest, mountain, plains, sky, swamp, or underground.
+[b]Basic Wilding[/b]
+You gain a 1st- or 2nd-level druid feat.
+[b]Wild Shape[/b]
+You are one with the wild, always changing and adapting to meet any challenge. You gain the wild shape order spell, which lets you transform into a variety of forms that you can expand with druid feats.
+[i]Cast[/i]  somatic, verbal
+[i]Duration[/i] 1 minute (or longer)
+You infuse yourself with primal essence and transform yourself into another form. You can polymorph into any form listed in pest form, which lasts 10 minutes. All other wild shape forms last 1 minute. You can add more forms to your wild shape list with druid feats; your feat might grant you some or all of the forms from a given polymorph spell. When you transform into a form granted by a spell, you gain all the effects of the form you chose from a version of the spell heightened to wild shape’s level. Wild shape allows you to use your own shapeshifting training more easily than most polymorph spells. When you choose to use your own attack modifier while polymorphed instead of the form’s default attack modifier, you gain a +2 status bonus to your attack rolls.
+[i]Heightened (2nd)[/i] You can also wild shape into the forms listed in animal form.
+[b]Pest Form[/b] - See Spells
+[b]Animal Form[/b] - See Spells
+
+[b][bigger]Level 5[/bigger][/b]
+[b]Trackless Step[/b]
+When you move through natural terrains, you are difficult to track. You always gain the benefits of the Cover Tracks action in such terrains, without moving at half your Speed.
+[b]Elven Instincts[/b]
+Your senses let you react rapidly. You gain a +2 circumstance bonus to Perception checks made as initiative rolls. Additionally, if your initiative roll result is tied with that of an opponent, you go first, regardless of whether you rolled Perception or not.
+[b]Weapon Expertise[/b]
+You’ve dedicated yourself to learning the intricacies of your weapons. Your proficiency ranks for simple and martial weapons increases to expert. You gain access to the critical specialization effects of all simple and martial weapons when attacking your hunted prey.
+
+[b][bigger]Level 6[/bigger][/b]
+[b]Snare Specialist[/b]
+You specialize in creating quick traps to obstruct your enemies on the battlefield. If your proficiency rank in Crafting is expert, you gain the formulas for three common or uncommon snares (page 589). If your rank is master, you gain 6. If your rank is legendary, you gain 9.
+Each day during your daily preparations, you can prepare four snares from your formula book for quick deployment; if they normally take 1 minute to Craft, you can Craft them with 3 Interact actions. The number of snares increases to six if you have master proficiency in Crafting and eight if you have legendary proficiency in Crafting. Snares prepared in this way don’t cost you any resources to Craft.
+[b]Forager[/b]
+While using Survival to Subsist, if you roll any result worse than a success, you get a success. On a success, you can provide subsistence living for yourself and four additional creatures, and on a critical success, you can take care of twice as many creatures as on a success.
+Each time your proficiency rank in Survival increases, double the number of additional creatures you can take care of on a success (to eight if you’re an expert, 16 if you’re a master, or 32 if you’re legendary). You can choose to care for half the number of additional creatures and provide a comfortable living instead of subsistence living.
+Multiple smaller creatures or creatures with significantly smaller appetites than a human are counted as a single creature for this feat, and larger creatures or those with significantly greater appetites each count as multiple creatures. The GM determines how much a non-human creature needs to eat.
+
+[b][bigger]Level 7[/bigger][/b]
+[b]Evasion[/b]
+You’ve learned to move quickly to avoid explosions, dragons’ breath, and worse. Your proficiency rank for Reflex saves increases to master. When you roll a success on a Reflex save, you get a critical success instead.
 [b]Expeditious Search[/b]
+You have a system that lets you search at great speed, finding details and secrets twice as quickly as others can. When Searching, you take half as long as usual to Search a given area. This means that while exploring, you double the Speed you can move while ensuring you’ve Searched an area before walking into it (up to half your Speed). If you’re legendary in Perception, you instead Search areas four times as quickly.
+[b]Weapon Specialization[/b]
+You’ve learned how to inflict greater injuries with the weapons you know best. You deal 2 additional damage with weapons and unarmed attacks in which you are an expert. This damage increases to 3 if you’re a master, and to 4 if you’re legendary.
+[b]Vigilant Sense[/b]
+Through your adventuring, you’ve developed keen awareness and attention to detail. Your proficiency rank for Perception increases to master.
+
+[b][bigger]Level 8[/bigger][/b]
+[b]Warden's Boon[/b]
+By pointing out vulnerabilities, you grant the benefits listed in Hunt Prey and your hunter’s edge benefit to an ally until the end of their next turn. Depending on whether you call out or use gestures, this action gains either the auditory or visual trait.
+[b]Planar Survival[/b]
+You can Subsist using Survival on different planes, even those without resources or natural phenomena you normally need. For instance, you can forage for food even if the plane lacks food that could normally sustain you. A success on your check to Subsist can also reduce the damage dealt by the plane, at the GM’s discretion.
+
 [/spoiler]
 
 ------------------------------
-------------------------------
 [b]Spells[/b]
 ------------------------------
-------------------------------
- [b]Focus Points:[/b] 1/1
- [spoiler=Wild Shape]
- [b]Cast[/b] Two Actions somatic, verbal
-[b]Duration[/b] 1 minute (or longer)
-You infuse yourself with primal essence and transform yourself into another form. You can polymorph into any form listed in pest form, which lasts 10 minutes. All other wild shape forms last 1 minute. You can add more forms to your wild shape list with druid feats; your feat might grant you some or all of the forms from a given polymorph spell. When you transform into a form granted by a spell, you gain all the effects of the form you chose from a version of the spell heightened to wild shape's level. Wild shape allows you to use your own shapeshifting training more easily than most polymorph spells. When you choose to use your own attack modifier while polymorphed instead of the form's default attack modifier, you gain a +2 status bonus to your attack rolls.
-[b]Heightened (2nd)[/b] You can also wild shape into the forms listed in animal form.
- [/spoiler]
- [spoiler=Animal Form]
- [b]Cast[/b] Two Actions somatic, verbal
-[b]Duration[/b] 1 minute
-You call upon primal energy to transform yourself into a Medium animal battle form. When you first cast this spell, choose ape, bear, bull, canine, cat, deer, frog, shark, or snake. You can decide the specific type of animal (such as lion or snow leopard for cat), but this has no effect on the form's Size or statistics. While in this form, you gain the animal trait. You can Dismiss the spell.
-
-You gain the following statistics and abilities regardless of which battle form you choose:
-AC = 16 + your level. Ignore your armor's check penalty and Speed reduction.
-5 temporary Hit Points.
-Low-light vision and imprecise scent 30 feet.
-One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +9, and your damage bonus is +1. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your unarmed attack bonus is higher, you can use it instead.
-Athletics modifier of +9, unless your own modifier is higher.
-You also gain specific abilities based on the type of animal you choose:
-[b]Ape[/b] Speed 25 feet, climb Speed 20 feet; Melee Single Action fist, Damage 2d6 bludgeoning.
-[b]Bear[/b] Speed 30 feet; Melee Single Action jaws, Damage 2d8 piercing; Melee Single Action claw (agile), Damage 1d8 slashing.
-[b]Bull[/b] Speed 30 feet; MeleeSingle Action horn , Damage 2d8 piercing.
-[b]Canine[/b] Speed 40 feet; Melee Single Action jaws, Damage 2d8 piercing.
-[b]Cat[/b] Speed 40 feet; MeleeSingle Action jaws, Damage 2d6 piercing; Melee Single Action claw (agile), Damage 1d10 slashing.
-[b]Deer[/b] Speed 50 feet; MeleeSingle Action antler , Damage 2d6 piercing.
-[b]Frog[/b] Speed 25 feet, swim Speed 25 feet; MeleeSingle Action jaws, Damage 2d6 bludgeoning; Melee Single Action tongue (reach 15 feet), Damage 2d4 bludgeoning.
-[b]Shark[/b] swim Speed 35 feet; Melee Single Action jaws, Damage 2d8 piercing; breathe underwater but not in air.
-[b]Snake[/b] Speed 20 feet, climb Speed 20 feet, swim Speed 20 feet; Melee Single Action fangs , Damage 2d4 piercing plus 1d6 poison.
-[b]Heightened[/b] (3rd) You instead gain 10 temporary HP, AC = 17 + your level, attack modifier +14, damage bonus +5, and Athletics +14.
-[b]Heightened[/b] (4th) Your battle form is Large and your attacks have 10-foot reach. You must have enough space to expand into or the spell is lost. You instead gain 15 temporary HP, AC = 18 + your level, attack modifier +16, damage bonus +9, and Athletics +16.
-[b]Heightened[/b] (5th) Your battle form is Huge and your attacks have 15-foot reach. You must have enough space to expand into or the spell is lost. You instead gain 20 temporary HP, AC = 18 + your level, attack modifier +18, damage bonus +7 and double the number of damage dice, and Athletics +20.
- [/spoiler]
- [spoiler=Pest Form]
- [b]Cast[/b] Two Actions somatic, verbal
-[b]Duration[/b] 10 minutes
-You transform into a the battle form of a Tiny animal, such as a cat, insect, lizard, or rat. You can decide the specific type of animal (such as a rat or praying mantis), but this has no effect on the form's Size or statistics. While in this form, you gain the animal trait. You can Dismiss the spell.
-
+[b]Focus Points:[/b] 1/1
+[spoiler=Wild Shape]
+You are one with the wild, always changing and adapting to meet any challenge. You gain the wild shape order spell, which lets you transform into a variety of forms that you can expand with druid feats.
+[i]Cast[/i]  somatic, verbal
+[i]Duration[/i] 1 minute (or longer)
+You infuse yourself with primal essence and transform yourself into another form. You can polymorph into any form listed in pest form, which lasts 10 minutes. All other wild shape forms last 1 minute. You can add more forms to your wild shape list with druid feats; your feat might grant you some or all of the forms from a given polymorph spell. When you transform into a form granted by a spell, you gain all the effects of the form you chose from a version of the spell heightened to wild shape’s level. Wild shape allows you to use your own shapeshifting training more easily than most polymorph spells. When you choose to use your own attack modifier while polymorphed instead of the form’s default attack modifier, you gain a +2 status bonus to your attack rolls.
+[i]Heightened (2nd)[/i] You can also wild shape into the forms listed in animal form.
+[/spoiler]
+[spoiler=Pest Form]
+[i]Cast[/i]  somatic, verbal
+[i]Duration[/i] 10 minutes
+You transform into the battle form of a Tiny animal, such as a cat, insect, lizard, or rat. You can decide the specific type of animal (such as a rat or praying mantis), but this has no effect on the form’s Size or statistics. While in this form, you gain the animal trait. You can Dismiss the spell.
 You gain the following statistics and abilities:
-AC = 15 + your level. Ignore your armor's check penalty and Speed reduction.
-Speed 10 feet.
+[i][b]AC[/b] = 15 + your level. Ignore your armor’s check penalty and Speed reduction.
+[b]Speed[/b] 10 feet.
 Weakness 5 to physical damage. (If you take physical damage in this form, you take 5 additional damage.)
 Low-light vision and imprecise scent 30 feet.
-Acrobatics and Stealth modifiers of +10, unless your own modifier is higher; Athletics modifier –4.
-[b]Heightened (4th)[/b] You can turn into a flying creature, such as a bird, which grants you a fly Speed of 20 feet.
- [/spoiler]
+Acrobatics and Stealth modifiers of +10, unless your own modifier is higher; Athletics modifier –4.[/i]
+[i][b]Heightened (4th)[/b][/i] You can turn into a flying creature, such as a bird, which grants you a fly Speed of 20 feet.
+[/spoiler]
+[spoiler=Animal Form]
+[i]Cast[/i]  somatic, verbal
+[i]Duration[/i] 1 minute
+You call upon primal energy to transform yourself into a Medium animal battle form. When you first cast this spell, choose ape, bear, bull, canine, cat, deer, frog, shark, or snake. You can decide the specific type of animal (such as lion or snow leopard for cat), but this has no effect on the form’s Size or statistics. While in this form, you gain the animal trait. You can Dismiss the spell.
+You gain the following statistics and abilities regardless of which battle form you choose:
+[i][b]AC[/b] = 16 + your level. Ignore your armor’s check penalty and Speed reduction.
+5 temporary Hit Points.
+Low-light vision and imprecise scent 30 feet.
+One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You’re trained with them. Your attack modifier is +9, and your damage bonus is +1. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your unarmed attack bonus is higher, you can use it instead.
+[b]Athletics[/b] modifier of +9, unless your own modifier is higher.
+You also gain specific abilities based on the type of animal you choose:
+[b]Ape[/b] Speed 25 feet, climb Speed 20 feet; Melee  fist, Damage 2d6 bludgeoning.
+[b]Bear[/b] Speed 30 feet; Melee  jaws, Damage 2d8 piercing; Melee  claw (agile), Damage 1d8 slashing.
+[b]Bull[/b] Speed 30 feet; Melee  horn, Damage 2d8 piercing.
+[b]Canine[/b] Speed 40 feet; Melee  jaws, Damage 2d8 piercing.
+[b]Cat[/b] Speed 40 feet; Melee  jaws, Damage 2d6 piercing; Melee  claw (agile), Damage 1d10 slashing.
+[b]Deer[/b] Speed 50 feet; Melee  antler, Damage 2d6 piercing.
+[b]Frog[/b] Speed 25 feet, swim Speed 25 feet; Melee  jaws, Damage 2d6 bludgeoning; Melee  tongue (reach 15 feet), Damage 2d4 bludgeoning.
+[b]Shark[/b] swim Speed 35 feet; Melee  jaws, Damage 2d8 piercing; breathe underwater but not in air.
+[b]Snake[/b] Speed 20 feet, climb Speed 20 feet, swim Speed 20 feet; Melee  fangs, Damage 2d4 piercing plus 1d6 poison.[/i]
+[i][b]Heightened (3rd)[/b][/i] You instead gain 10 temporary HP, AC = 17 + your level, attack modifier +14, damage bonus +5, and Athletics +14.
+[i][b]Heightened (4th)[/b][/i] Your battle form is Large and your attacks have 10-foot reach. You must have enough space to expand into or the spell is lost. You instead gain 15 temporary HP, AC = 18 + your level, attack modifier +16, damage bonus +9, and Athletics +16.
+[i][b]Heightened (5th)[/b][/i] Your battle form is Huge and your attacks have 15-foot reach. You must have enough space to expand into or the spell is lost. You instead gain 20 temporary HP, AC = 18 + your level, attack modifier +18, damage bonus +7 and double the number of damage dice, and Athletics +20.
+[/spoiler]
 
 [b]Primal DC: 23[/b]
 [b]Spell Attack[/b] +13
@@ -209,15 +233,13 @@ Acrobatics and Stealth modifiers of +10, unless your own modifier is higher; Ath
 [s][url=https://2e.aonprd.com/Spells.aspx?ID=229]Prestidigitation[/url][/s]
 [s][url=https://2e.aonprd.com/Spells.aspx?ID=236]Produce Flame[/url][/s]
 [url=https://2e.aonprd.com/Spells.aspx?ID=245]Ray of Frost[/url]
-[s][url=https://2e.aonprd.com/Spells.aspx?ID=246]Read Aura[/url][/s]
+[s]url=https://2e.aonprd.com/Spells.aspx?ID=246]Read Aura[/url][/s]
 [s][url=https://2e.aonprd.com/Spells.aspx?ID=286]Sigil[/url][/s]
 [s][url=https://2e.aonprd.com/Spells.aspx?ID=307]Stabilize[/url][/s]
 [s][url=https://2e.aonprd.com/Spells.aspx?ID=330]Tanglefoot[/url][/s]
 [/spoiler]
 ------------------------------
-------------------------------
 [b]GEAR/POSSESSIONS[/b]
-------------------------------
 ------------------------------
 [b]Encumbered[/b] 5 Bulk
 [b]Max[/b] 10 Bulk
@@ -226,19 +248,30 @@ Acrobatics and Stealth modifiers of +10, unless your own modifier is higher; Ath
 [b]Worn[/b]
 +1 Leather Armor
 +1 Striking Elven Curved Sword
-[spoiler=Hat of Disguise][/spoiler]
-[spoiler=Boots of Bounding][/spoiler]
-[spoiler=Bracers of Missile Deflection][/spoiler]
-[spoiler=Tracker's Goggles][/spoiler]
+[spoiler=Hat of Disguise]
+This ordinary-looking hat allows you to cloak yourself in illusions.
+Activate 1 minute (Interact); Frequency once per day; Effect The hat casts a 1st-level illusory disguise spell on you.
+While setting up the disguise, you can magically alter the hat to appear as a comb, ribbon, helm, or other piece of headwear.[/spoiler]
+[spoiler=Boots of Bounding]
+The springy soles of these sturdy leather boots cushion your feet and make each step lighter. These boots give you a +5-foot item bonus to your Speed and a +2 item bonus to Athletics checks to High Jump and Long Jump. In addition, when you use the Leap action, you can move 5 feet further if jumping horizontally or 3 feet higher if jumping vertically.
+[/spoiler]
+[spoiler=Bracers of Missile Deflection]
+These bracers are made from plates of durable mithral and gleam like the summer sun.
+[i]Activate[/i] Reaction Interact; Frequency once per day; Trigger A ranged weapon attack hits you but doesn’t critically hit; Requirements You are aware of the attack and not flat‑footed; Effect The bracers send the missile off-course. You gain a +2 circumstance bonus to AC against the triggering attack. If this would cause the attack to be a failure, the attack misses you.
+[/spoiler]
+[spoiler=Tracker's Goggles]
+These lenses of forest-green glass are bound in rough leather stitched with crude twine. While wearing these goggles, you gain a +1 bonus to Survival checks to Sense Direction and Track. If you fail a check to Track, you can try again after 30 minutes rather than an hour.
+[/spoiler]
 [spoiler=Bandolier (8 Light Items)]
-    Feather Token (Ladder)
-    2nd Level Wand of Longstrider
-    Silversheen
-    Manacles (Simple)
-    Alarm Snare
-    Striking Snare
-    Grasping Snare
-    Warning Snare
+[list]
+[*]2nd Level Wand of Longstrider
+[*]Silversheen
+[*]Manacles (Simple)
+[*]Alarm Snare
+[*]Striking Snare
+[*]Grasping Snare
+[*]Warning Snare
+[/list]
 [/spoiler]
 [spoiler=Bag of Holding I]
 [i]25 Bulk Total[/i]
@@ -258,9 +291,7 @@ Thieve's Tools:         0.1
 [b]Money[/b] 0 GP 2 SP 5 CP
 
 ------------------------------
-------------------------------
 [b]SNARES[/b]
-------------------------------
 ------------------------------
 [spoiler=Alarm Snare]
 You create an alarm snare by rigging one or more noisy objects to a trip wire or pressure plate. When you create an alarm snare, you designate a range between 100 to 500 feet at which it can be heard. When a Small or larger creature enters the square, the snare makes a noise loud enough that it can be heard by all creatures in the range you designated.
@@ -302,12 +333,83 @@ This snare explodes in a burst of cloying powder that can cling to a creature st
 [b]Failure[/b] Powder clumps on the target, constantly flaking away. Being invisible makes the target concealed, rather than hidden or undetected, to creatures that could see it if it weren’t invisible.
 [b]Critical Failure[/b] As failure, and the creature is blinded until the end of its next turn.
 [/spoiler]
-
-
+------------------------------
 [spoiler=Background]
-[/spoiler]
+1) There is someone in Brevoy with whom you’ve had substantial conflict. Who is it? Why is there conflict between you? How does the conflict usually play out? The idea is to create a connection to someone back home that can be a source of friction.
 
+[b]
+There is a somewhat rich/royal/powerful family of humans who believe Kern has ruined their family. Early on in the family's rise to prominence, the family had three sons, but the eldest was crippled and simple. To avoid shame, the father had the son sent away, not killed but sent away. In anguish the mother hired Kern to track down and return her son. Kern tracked him down to a temple in Varisia. Upon return to Brevoy, the father had coerced the mother into agreeing with the decision by the time Kern made it back to Brevoy. 
+
+The family reneged on the deal.
+
+The deal included discretion, but since the deal was off, Kern threw discretion to the wind. He paraded the boy to the local city council and brought forth the issue of the broken contract. This caused the family embarrassment and not a small amount of gold.
+
+Now, every chance they get, the family will curse and spit the name Kernithar Flott. With each generation the affronts have become more severe, starting with just nasty postings on the town board and progressing to hiring thugs to "teach Kern a lesson". Kern has heard tell that the family uses the elf as a scape-goat for all their misfortune. 
+[/b]
+
+
+2)  Someone back home has been a substantial ally of yours; you get along very well. Who is it? Describe an occasion when the alliance came into play. The idea is to create a connection to someone back home that has been a positive influence for you. They need not belong to a PC class. Perhaps they will communicate news and rumors to you, or send new settlers or quests your way. They might even come to your assistance (or expect you to come to their assistance) in time of great need. OPTION: Briefly define up to three separate allies, each with a different relationship to you (parent/ sibling/ mentor/ friend/ colleague).
+
+[b]
+Being of the long-lived ancestries, Kern has befriended a few of his longer lived Kin. He has a friendly acquaintance with a druid circle in the Grozni Forest. He's begrudgingly admitted that a Dwarf named Fallin in Stetven makes the finest blades in Golarion and only goes to this Dwarf for arms. Of late, there's an Elf (Ristal) in Restov that is a mortician of sorts and is understanding to Kern's affliction. He has taught Kern what he needs to know about butchering of the living. 
+[/b]
+
+3)  You carry a possession that has great meaning to you. What is it, and why is it so important? Preferably something other than a weapon, implement, armor, or standard gear. It is most interesting when it has a bit of story connected to it.
+
+[b]
+Kern carries a single dragon scale. This was given to him by his brother, Castien. 
+
+Let me ponder this one some more, I don't think his brother has perished but I'm unsure
+[/b]
+
+4)  You have a secret that you hide from others (including the other PCs). What is this secret? e.g. A shameful failure or misdeed in your past that continues to haunt you; a bastard child; a broken betrothal; a fear or desire that affects your decisions. NOTE: This secret should affect the way you play your character, and/or reasonably be brought into play by the DM (eventually).
+
+[b]
+Kern suffers from a Fey's curse (or maybe something else). All food and drink tastes of ash to him. Living (or recently living) flesh is the only thing that tastes good. The closer to humanoid, the better tasting. He's actively seeking a way to cure his affliction but has thus-far been unsuccessful. He's become somewhat self-loathing because of this. Even his shape-shifted self suffers from this, but it makes it easier to accomodate since a wolf hunting for living meat is not as for
+[/b]
+
+5) There is a troubling mystery for which you don’t know the answer. What is this mystery? e.g. A sibling (or your betrothed/ lover/ best friend/longtime rival/mentor) vanished while traveling abroad (or from home or their workplace); you lost something precious to you; an unusual object keeps reappearing in your possessions no matter how often you lose or destroy it; an animal or person keeps watching from a distance, though you never get close (or learn nothing useful when you do); you were once found wandering in the woods with no recollection of how you got there or what happened for a missing period of 10 days/2 weeks/2 months. NOTE: This should be a mystery your character wants to solve, that can reasonably be brought into play by the DM at some point in the campaign; the DM has creative control of this mystery’s final answers.
+
+[b]
+His brother's location and fate. And/or the source of his curse/affliction.
+[/b]
+
+6)  You have a particular patron who suggested you for the exploration of the Greenbelt. Who is it? What is their interest in this project? What is it about your relationship that makes them think you’ll be a particularly good agent for their interests? The intent is to give you a connection to someone with a political axe to grind. Possible “interests” might include: stabilize the southern border as a future ally for Rostland against the north (Issia); report to someone whose loyalty is to the north (Issia); find means to help prevent civil war between Rostland and Issia; find valuable resources that can be exploited for profit by wealthy investors from Brevoy; represent a specific noble house or other person or group’s interests; OR, your patron might be someone who is politically connected and to whom you owe a debt, and you may not know their actual agenda at this time.
+
+[b]
+I have been fooled by a Brevoyian (spelling) lord. After completing several jobs and bounties for the lord, I began to befriend (if you can use that word with Humans) the family. My guard was let down and I was drugged. Waking in the morning, nothing was amiss. 
+
+Years later I learned that the wife had lain with me during my unconscious state and I had sired a child. The wife wanted an exotic offspring and I was their pawn in the matter. The boy was raised in the family as normal as any apparent bastard could be. Although I don't directly feel responsible for him, he has political aspirations that I may have lended a hand in.
+[/b]
+
+
+7)  Describe your ideal spouse. This campaign will span years of game time – and many if not all PCs will eventually have families of their own. Assume this, and give some thought to how you want this to develop for your PC. You may already be betrothed or have a beloved. You may already be married. More likely, you will find your true love during the campaign – but it is up to you as the player to help make this happen, both by being open to it, and by providing the DM with enough information to ensure that good candidates can be introduced. You are quite welcome to help create your NPC future spouse, within reason.
+
+[b]
+A wife of same kin. Someone to anchor from. His bounties send him off and about. Also, his recent affliction and interactions with druid circles have him away from civilization a lot. Having someone consistently there to go back to would be ideal. Someone with an appreciation for nature but not as engulfed in it as he is. Opposites attract and such.
+[/b]
+
+8)  What do you like to do when you have down-time? What sorts of hobbies and interests does your PC have? The idea is to make your PC more rounded and interesting by thinking about things other than adventuring that he likes to do – and what sorts of businesses he’ll eventually be interested in promoting. Does he collect something? Make something? Play a musical instrument? Would he rather carouse in a tavern or read a book? Does he enjoy the theater? Dancing? Gambling? Fine food?
+
+[b]
+Unfortunately, I enjoy cooking. I enjoy fine food, but I would rather make it myself. Traveling the world and tasting the various wines. 
+
+I also enjoy knitting/sewing and largely make and maintain my own outfits. Although my usual clothes are well-traveled, I have an eye for fashion. Fallin (the Dwarf blacksmith) is an excellent knitter and makes wonderful scarves too.
+[/b]
+
+9)  Define your family. You have some options here. Choose ONE, and provide the answer.
+
+Create your immediate family tree. Provide name and gender; for at least five still-living relatives (siblings, parents, grandparents, aunts/uncles, cousins), give a sentence-fragment comment about them or their relationship with you.
+
+Briefly define three to five members of your family who are (or may become) important to you. These may be immediate family or distant kin; provide appropriate names. You needn’t have a strong relationship with them (e.g. the titled cousin you’ve never met), but then you leave them to the DM to develop…
+
+If your background doesn’t allow for this many relatives, define caregivers and others who are your “effective family” i.e. people you grew up around, for better or for worse. This can be in combination with the above options (e.g. family tree shows two living relatives, and you list three people who were like family: your kindly but clueless nanny, your cruel tutor, and the saxophone player who lived under a nearby bridge and gave you your love of music.)
+
+[b]
+My family hails from Iadara. We're a druidic family but only my sister Kymel stayed around. My brother and I chose to leave the circle and venture out on our own. We claimed bounties together for a time before parting ways to explore other areas of Golarion. He went West while I went NorthEast. My father Isantel used his shapeshifting to protect the land while my mother Tameriel is a wood-weaver.
+[/b]
+[/spoiler]
+------------------------------
 [spoiler=Appearance and Personality]
 [url=https://i.imgur.com/LsTN5Bu.jpg]Link[/url]
 [/spoiler]
-
