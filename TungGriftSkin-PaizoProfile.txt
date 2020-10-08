@@ -1,0 +1,319 @@
+Aasimar Human Rogue (Thief) Knight Errant of the Knights of the Pale 7
+LG Medium Human Aasimar Humanoid
+Worshiper of Lothian
+[b]Perception:[/b] +14 (+16 for Initiative)
+------------------------------
+------------------------------
+[b]DEFENSE[/b]
+------------------------------
+------------------------------
+[b]AC[/b] 25
+[b]HP[/b] 78/78 
+[b]Fort (T)[/b] +11, [b]Ref (M)[/b] +17 [i]Evasion[/i], [b]Will (E)[/b] +12 
+------------------------------
+------------------------------
+[b]OFFENSE[/b]
+------------------------------
+------------------------------
+[b]Speed[/b] 25 ft.
+[b]Rogue DC[/b] 23
+
+[dice=[b]Sneak Attack]2d6[/dice]
+[spoiler=+1 Striking Cold Iron Dagger]
+[i]Agile, Finesse, Thrown 10ft, Versatile S[/i]
+[dice=[i]Cold Iron Dagger[/i] (1)]1d20+16[/dice] [dice=Damage (P/S)]2d4+6[/dice]
+[dice=[i]Cold Iron Dagger[/i] (1)]1d20+16-4[/dice] [dice=Damage (P/S)]2d4+6[/dice]
+[dice=[i]Cold Iron Dagger[/i] (1)]1d20+16-8[/dice] [dice=Damage (P/S)]2d4+6[/dice]
+[/spoiler]
+[spoiler=Dagger]
+[i]Agile, Finesse, Thrown 10ft, Versatile S[/i]
+[dice=[i]Dagger[/i] (1)]1d20+15[/dice] [dice=Damage (P/S)]1d4+6[/dice]
+[dice=[i]Dagger[/i] (1)]1d20+15-4[/dice] [dice=Damage (P/S)]1d4+6[/dice]
+[dice=[i]Dagger[/i] (1)]1d20+15-8[/dice] [dice=Damage (P/S)]1d4+6[/dice]
+[/spoiler]
+[spoiler=Shortbow]
+[i]Deadly d10[/i]
+[dice=[i]Shortbow[/i] (1)]1d20+15[/dice] [dice=Damage (P)]1d6+2[/dice] [dice=Deadly?]1d10[/dice]
+[dice=[i]Shortbow[/i] (1)]1d20+15-5[/dice] [dice=Damage (P)]1d6+2[/dice]
+[dice=[i]Shortbow[/i] (1)]1d20+15-10[/dice] [dice=Damage (P)]1d6+2[/dice]
+[/spoiler]
+------------------------------
+------------------------------
+[b]STATISTICS[/b]
+------------------------------
+------------------------------
+[spoiler=Ability Scores]
+[b]STR[/b] 12 [i]+1[/i]
+[b]DEX[/b] 19 [i]+4[/i]
+[b]CON[/b] 14 [i]+2[/i]
+[b]INT[/b] 14 [i]+2[/i]
+[b]WIS[/b] 12 [i]+1[/i]
+[b]CHA[/b] 14 [i]+2[/i]
+[/spoiler]
+
+[spoiler=Skills]
+[dice=[b]Acrobatics         (E)[/b]]1d20 [b]+15[/b] [/dice]
+[dice=[b]Arcana             (E)[/b]]1d20 [b]+13[/b] [/dice]
+[dice=[b]Athletics          (T)[/b]]1d20 [b]+10[/b] [/dice]
+[dice=[b]Crafting           (U)[/b]]1d20 [b]+2[/b] [/dice]
+[dice=[b]Deception          (T)[/b]]1d20 [b]+11[/b] [/dice]
+[dice=[b]Diplomacy          (T)[/b]]1d20 [b]+11[/b] [/dice]
+[dice=[b]Intimidation       (T)[/b]]1d20 [b]+11[/b] [/dice]
+[dice=[b]Lore:Celestials    (M)[/b]]1d20 [b]+15[/b] [/dice]
+[dice=[b]Lore:Demons        (M)[/b]]1d20 [b]+15[/b] [/dice]
+[dice=[b]Lore:Ptolus        (T)[/b]]1d20 [b]+11[/b] [/dice]
+[dice=[b]Medicine           (E)[/b]]1d20 [b]+12[/b] [/dice]
+[dice=[b]Nature             (U)[/b]]1d20 [b]+1 [/b] [/dice]
+[dice=[b]Occultism          (T)[/b]]1d20 [b]+11[/b] [/dice]
+[dice=[b]Performance        (U)[/b]]1d20 [b]+2 [/b] [/dice]
+[dice=[b]Religion           (E)[/b]]1d20 [b]+12[/b] [/dice]
+[dice=[b]Society            (M)[/b]]1d20 [b]+15[/b] [/dice]
+[dice=[b]Stealth            (E)[/b]]1d20 [b]+16[/b] [/dice]
+[dice=[b]Survival           (U)[/b]]1d20 [b]+1 [/b] [/dice]
+[dice=[b]Thievery           (T)[/b]]1d20 [b]+13[/b] [/dice]
+[/spoiler]
+
+[b]Languages[/b] Common(Imperial), Abyssal, Draconic, Undercommon
+
+------------------------------
+------------------------------
+[b]SPECIAL ABILITIES[/b]
+------------------------------
+------------------------------
+[spoiler=Abilities]
+[b]Encounter Abilities[/b]
+------------------------------
+[i]Agility Abilities[/i]
+------------------------------
+[b]Nimble Dodge[/b] 
+[i]Requirements[/i] You are not encumbered. [i]Trigger[/i] A creature targets you with an attack and you
+can see the attacker. 
+You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack.
+------------------------------
+[b][url=https://2e.aonprd.com/Feats.aspx?ID=557]Mobility:[/url][/b] You move in a way that denies your enemies the opportunity to retaliate. When you take a Stride action to move half your Speed or less, that movement does not trigger reactions. You can use Mobility when Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.
+------------------------------
+[b][url=https://2e.aonprd.com/Classes.aspx?ID=10]Deny advantage:[/url][/b] As someone who takes advantage of others’ defenses, you are careful not to leave such openings yourself. You aren’t flat-footed to hidden, undetected, or flanking creatures of your level or lower, or creatures of your level or lower using surprise attack. However, they can still help their allies flank.
+------------------------------
+[b]Nimble Crawl:[/b] You can Crawl incredibly swiftly—up to half your Speed, rather than 5 feet. If you’re a master in Acrobatics, you can Crawl at full Speed, and if you’re legendary, you aren’t flat-footed while prone
+------------------------------
+[url=https://2e.aonprd.com/Classes.aspx?ID=10]Evasion[/url]: You’ve learned to move quickly to avoid explosions, dragons’ breath, and worse. Your proficiency rank for Reflex saves increases to master. When you roll a success on a Reflex save, you get a critical success instead.
+------------------------------
+[i]Holy Abilities[/i]
+------------------------------
+[url=https://docs.google.com/document/d/1N59XHQYvqYCR57nMFkzA_iGdUPh8Si9go7FMmnmhoC0/edit?usp=sharing]Knight of the Pale[/url] Dedication: You gain Trained proficiency in Religion and Knowledge (Demons). If you are already Trained, you gain Expert Proficiency. Whenever you roll a success on a saving throw against an evil outsider’s special ability, you get a critical success instead. This applies to any abilities that come from being an evil outsider, including an evil outsider’s innate spells (but not its prepared or spontaneous spells).
+------------------------------
+[url=https://2e.aonprd.com/Feats.aspx?ID=1354]Blessed Blood Aasimar:[/url] Your freshly spilled blood is sanctified, and ingesting it causes effects similar to those of holy water. Whenever a fiend, undead, or creature with a weakness to good damage drinks your blood or deals piercing or slashing damage to you with jaws, fangs, or a similar attack, that creature takes 1d6 good damage. You gain a +4 circumstance bonus to Crafting checks to Craft holy water using your own blood as one of the ingredients.
+------------------------------
+[i]Weapon Abilities[/i]
+------------------------------
+[url=https://docs.google.com/document/d/1N59XHQYvqYCR57nMFkzA_iGdUPh8Si9go7FMmnmhoC0/edit?usp=sharing]The Blade of St. Chausle (Divine Ally: Blade)[/url]: A spirit of battle dwells within your armaments. Select one weapon or handwraps of mighty blows when you make your daily preparations. In your hands, the item gains the effect of a property rune and you also gain the weapon's critical specialization effect. For a champion following the tenets of good, choose disrupting, ghost touch, returning, or shifting. For a champion following the tenets of evil, choose fearsome, returning, or shifting.
+------------------------------
+[url=https://2e.aonprd.com/Classes.aspx?ID=10]Weapon Tricks:[/url] You have become thoroughly familiar with the tools of your trade. You gain expert proficiency in simple weapons and unarmed attacks, as well as the rapier, sap, shortbow, and shortsword. When you critically succeed at an attack roll against a flat-footed creature while using an agile or finesse simple weapon or any of the listed weapons, you apply the critical specialization effect for the weapon you’re wielding.
+------------------------------
+[url=https://2e.aonprd.com/Classes.aspx?ID=10]Weapon Specialization:[/url] You’ve learned how to inflict greater injuries with the weapons you know best. You deal 2 additional damage with weapons and unarmed attacks in which you are an expert. This damage increases to 3 damage if you’re a master, and 4 damage if you’re legendary.
+------------------------------
+[b][url=https://2e.aonprd.com/Feats.aspx?ID=794]Incredible Initiative:[/url][/b] You react more quickly than others can. You gain a +2 circumstance bonus to initiative rolls.
+------------------------------
+[i]Magic Abilities[/i]
+------------------------------
+[b]Trick Magic Item[/b] 1 Action [i](General, Manipulate, Skill)[/i] 
+You examine a magic item you normally couldn’t use in an effort to fool it and activate it temporarily. For
+example, this might allow a fighter to cast a spell from a wand or allow a wizard to cast a spell that’s not on the
+arcane list using a scroll. You must know what activating the item does, or you can’t attempt to trick it. Attempt a
+check using the skill matching the item’s magic tradition, or matching a tradition that has the spell on its list, if
+you’re trying to cast a spell from the item. The relevant skills are Arcana for arcane, Nature for primal, Occultism
+for occult, Religion for divine, or any of the four for an item that has the magical trait and not a tradition trait. The
+GM determines the DC based on the item’s level (possibly adjusted depending on the item or situation). If you
+activate a magic item that requires a spell attack roll or spell DC and you don’t have the ability to cast spells of
+the relevant tradition, use your level as your proficiency bonus and the highest of your Intelligence, Wisdom, or
+Charisma modifiers. If you’re a master in the appropriate skill for the item’s tradition, you instead use the trained
+proficiency bonus, and if you’re legendary, you instead use the expert proficiency bonus. 
+[i]Success[/i] For the rest of the current turn, you can spend actions to activate the item as if you could normally use it. 
+[i]Failure[/i] You can’t use the item or try to trick it again this turn, but you can try again on subsequent turns. 
+[i]Critical Failure[/i] You can’t use the item, and you can’t try to trick it again until your next daily preparations.
+------------------------------
+[b]Exploration/Other Abilities[/b]
+------------------------------
+[b][url=https://2e.aonprd.com/Feats.aspx?ID=1349]Celestial Eyes:[/url][/b] You can see through darkness. You gain darkvision.
+------------------------------
+[url=https://2e.aonprd.com/Classes.aspx?ID=10]Vigilant Senses:[/url] Through your adventures, you’ve developed keen awareness and attention to detail. Your proficiency rank for Perception increases to master.
+------------------------------
+[b]Quiet Allies:[/b] You’re skilled at moving with a group. When you are Avoiding Notice and your allies Follow the Expert, you and those allies can roll a single Stealth check, using the lowest modifier, instead of rolling separately. This doesn’t apply for initiative rolls.
+------------------------------
+[b][url=https://2e.aonprd.com/Feats.aspx?ID=845]Steady Balance:[/url][/b] You can keep your balance easily, even in adverse conditions. Whenever you roll a success using the Balance action, you get a critical success instead. You’re not flat-footed while attempting to Balance on narrow surfaces and uneven ground. Thanks to your incredible balance, you can attempt an Acrobatics check instead of a Reflex save to Grab an Edge.
+------------------------------
+[b][url=https://2e.aonprd.com/Feats.aspx?ID=846]Streewise:[/url][/b] You know about life on the streets and feel the pulse of your local settlement. You can use your Society modifier instead of your Diplomacy modifier to Gather Information. In any settlement you frequent regularly, you can use the Recall Knowledge action with Society to know the same sorts of information that you could discover with Diplomacy to Gather Information. The DC is usually significantly higher, but you know the information without spending time gathering it. If you fail to recall the information, you can still subsequently attempt to Gather Information normally.
+------------------------------
+[url=https://2e.aonprd.com/Feats.aspx?ID=833]Read Lips:[/url] You can read lips of others nearby who you can clearly see. When you’re at your leisure, you can do this automatically. In encounter mode or when attempting a more difficult feat of lipreading, you’re fascinated and flat-footed during each round in which you focus on lip movements, and you must succeed at a Society check (DC determined by the GM) to successfully read someone’s lips. In either case, the language read must be one that you know.
+------------------------------
+[b]Unmistakable lore:[/b] You never get information about your areas of expertise wrong. When you Recall Knowledge using any Lore subcategory in which you are trained, if you roll a critical failure, you get a failure instead. If you’re a Master in a Lore, on a critical success, you gain even more information or context than usual.
+------------------------------
+[/spoiler]
+ 
+------------------------------
+------------------------------
+[b]GEAR/POSSESSIONS[/b]
+------------------------------
+------------------------------
+[b]Encumbered[/b] 6 Bulk
+[b]Max[/b] 11 Bulk
+[b]Current Load Carried[/b] 5.2 Bulk
+
+[b]Traveler's Any-Tool[/b] 2 Actions [i](Magical, Transmutation)[/i] 
+[i]Activate[/i] Interact, envision; 
+You imagine a specific simple tool, and the any-tool transforms into it. (Usually, you can choose from a tool listed in Chapter 6). This transforms the wooden portion into any haft and the metal caps into spades, hammer heads, or the like, allowing for most basic tools but nothing more complex. You can return the item to its rod form with an Interact action.
+------------------------------
+[b]Rope of Climbing (Lesser)[/b] 1 Action [i](Magical, Transmutation)[/i] 
+[i]Activate[/i] Interact; [i]Frequency[/i] once per day; 
+You hold one end of the rope and point to a destination. The rope animates for 1 minute, moving 10 feet per round until it reaches the destination or runs out of length. The rope can move across any non-damaging horizontal or vertical surface, but it can't extend upward without a surface to support it. At any point while the rope is animated, you can use an Interact action to wiggle the rope, giving it one of the following commands: stop in place, fasten securely to the nearest available object, detach from an object, or knot or unknot itself.
+------------------------------
+[b]Hand of the Mage[/b] 2 Actions [i](Evocation, Invested, Magical)[/i] 
+[i]Activate[/i] command, envision; 
+You cast mage hand.
+[b]Range[/b] 30 feet; [b]Targets[/b] 1 unattended object of light Bulk or less
+[b]Duration[/b] sustained
+You create a single magical hand, either invisible or ghostlike, that grasps the target object and moves it slowly up to 20 feet. Because you’re levitating the object, you can move it in any direction. When you Sustain the Spell, you can move the object an additional 20 feet. If the object is in the air when the spell ends, the object falls.
+[i]Heightened (3rd)[/i] You can target an unattended object with a Bulk of 1 or less.
+[i]Heightened (5th)[/i] The range increases to 60 feet, and you can target an unattended object with a Bulk of 1 or less.
+[i]Heightened (7th)[/i] The range increases to 60 feet, and you can target an unattended object with a Bulk of 2 or less.
+------------------------------
+[b]Worn[/b]
++1 Shadow Leather
+[i]Bandolier[/i]
+Traveler's Any-Tool
+Rope of Climbing (Lesser)
+Adventurer's Pack
+Climbing Kit
+Hand of the Mage
+Bandolier (2)
+Holy Water (3)
+Healing Potion (Lesser) (2)
+Signal Whistle
+Candle (4)
+Arrows(20)
+Spyglass
+Scroll of See Invisibility
+Healer's Tools
+
+[b]Money[/b] 1 GP 1 SP 1 CP
+
+------------------------------
+------------------------------
+[b]Build[/b]
+------------------------------
+------------------------------
+[spoiler=Background]
+Working the Docks as a barmaid was rough for Tung’s mother but she made the best of it. With his father absent most of the time (from being a porter/sherpa in the Undercity for the Dungeon) her little “angel” helped when he could by working with his dad. As he grew older, Tung came into his own leading around a ragtag group of kids that roamed the Undercity. “Bright Eyes”, as they knew him, often thwarted other gangs' plans to rob would-be adventurers that frequented the Undercity before journeying deeper below. It wasn’t right that these people were coming to help rid their city of monsters and these kids were taking advantage of them. 
+Being so close to the “Dungeon” had its hazards. The monsters or demons that sometimes made it up from the depths would wreak havoc until adventurers could put them down. One such time, Tung witnessed a struggle between a well armored man and a demon. Seeing the two locked in a balanced fray, he waited until the demon was distracted before jumping onto it’s back and burying his dagger deep into its hide. The demon fell and the man extended his gratitude with an offer of food and ale. The man’s name was Gile and he was a Knight of the Pale. 
+After discussions over a drink, he had convinced Tung to journey the Bladechapel and learn more. Ever since that first visit, Tung has been dedicated to eliminating demonic and evil magics and beings from Ptolus. Part of him feels his angelic heritage draws him to such a calling, but mainly he enjoyed the camaraderie of the small Order, where he wasn’t looked upon as an oddity for his glowing eyes. Now grown, his childhood gang While most of his order are sturdy warriors, Tung took on a finesse approach to combat that often left his opponents exposed in their slow reactions and movements.
+
+He has been assigned to the party by Dierna Hillerchaun as a Knight Errant.
+[/spoiler]
+[spoiler=Appearance]
+Tung has pale skin and stands 6 ft tall. But it’s not his tall stature or pale skin that make him stand out from the crowd, it’s the glowing gold celestial eyes and shock of light gray hair. The eyes contrast the shadows he enjoys frequenting. His leather armor is emblazoned with his order’s sigil but usually remains covered by his heavy black cloak. 
+[/spoiler]
+[spoiler=Build]
+[b]Ancestry:[/b] Human [url=https://2e.aonprd.com/Ancestries.aspx?ID=24]Aasimar[/url]
+Low-light vision (Aasimar)
+8HP
+25ft Speed
+Languages: Common, Abyssal, Undercommon, Draconic, 
+Boost DEX
+Boost STR
+
+[b]Background:[/b] [url=https://2e.aonprd.com/Backgrounds.aspx?ID=54]Child of the [s]Puddles[/s] Docks[/url]
+Trained Acrobatics
+Trained Ptolus Lore
+[url=https://2e.aonprd.com/Feats.aspx?ID=845]Steady Balance:[/url] You can keep your balance easily, even in adverse conditions. Whenever you roll a success using the Balance action, you get a critical success instead. You’re not flat-footed while attempting to Balance on narrow surfaces and uneven ground. Thanks to your incredible balance, you can attempt an Acrobatics check instead of a Reflex save to Grab an Edge.
+Boost DEX
+Boost CHA
+
+[b]Class:[/b] [url=https://2e.aonprd.com/Classes.aspx?ID=10]Rogue[/url] [url=https://2e.aonprd.com/Rackets.aspx?ID=3]Thief[/url] [url=https://docs.google.com/document/d/1N59XHQYvqYCR57nMFkzA_iGdUPh8Si9go7FMmnmhoC0/edit?usp=sharing](Knight of the Pale)[/url]
+Boost DEX
+
+[b]Four Boosts:[/b]
+CON
+WIS
+DEX
+INT
+
+[b]Level 1:[/b] 
+Trained Thievery (Thief)
+Expert in Perception (Rogue)
+Trained in Fortitude (Rogue)
+Expert in Reflex (Rogue)
+Expert in Will (Rogue)
+Trained in Stealth (Rogue)
+Trained in a number of additional skills equal to 7 plus your Intelligence modifier
+- Arcana
+- Athletics
+- Diplomacy
+- Intimidation
+- Medicine
+- Occultism
+- Religion
+- Society
+Trained in simple weapons (Rogue)
+Trained in the rapier, sap, shortbow, and shortsword (Rogue)
+Trained in unarmed attacks (Rogue)
+Trained in light armor (Rogue)
+Trained in unarmored defense (Rogue)
+Trained in rogue class DC (Rogue)
+Sneak Attack (Rogue)
+Surprise Attack (Rogue)
+[url=https://2e.aonprd.com/Feats.aspx?ID=550]Nimble Dodge:[/url] A creature targets you with an attack and you can see the attacker. You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack.
+[url=https://2e.aonprd.com/Feats.aspx?ID=846]Streewise:[/url] You know about life on the streets and feel the pulse of your local settlement. You can use your Society modifier instead of your Diplomacy modifier to Gather Information. In any settlement you frequent regularly, you can use the Recall Knowledge action with Society to know the same sorts of information that you could discover with Diplomacy to Gather Information. The DC is usually significantly higher, but you know the information without spending time gathering it. If you fail to recall the information, you can still subsequently attempt to Gather Information normally.
+[url=https://2e.aonprd.com/Feats.aspx?ID=1349]Celestial Eyes:[/url] You can see through darkness. You gain darkvision.
+
+
+[b]Level 2:[/b]
+[url=https://2e.aonprd.com/Feats.aspx?ID=557]Mobility:[/url] You move in a way that denies your enemies the opportunity to retaliate. When you take a Stride action to move half your Speed or less, that movement does not trigger reactions. You can use Mobility when Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.
+[b]Additional Lore (demons):[/b] You knowledge has expanded to encompass a new field. Choose an additional Lore skill subcategory. You become trained in it. At 3rd, 7, and 15th levels, you gain an additional skill increase you can apply only to the chosen Lore.
+[b]Expert Stealth[/b]
+
+[b]Level 3:[/b]
+[url=https://2e.aonprd.com/Classes.aspx?ID=10]Deny advantage:[/url] As someone who takes advantage of others’ defenses, you are careful not to leave such openings yourself. You aren’t flat-footed to hidden, undetected, or flanking creatures of your level or lower, or creatures of your level or lower using surprise attack. However, they can still help their allies flank.
+[url=https://2e.aonprd.com/Feats.aspx?ID=794]Incredible Initiative:[/url] You react more quickly than others can. You gain a +2 circumstance bonus to initiative rolls.
+[b]Quiet Allies:[/b] You’re skilled at moving with a group. When you are Avoiding Notice and your allies Follow the Expert, you and those allies can roll a single Stealth check, using the lowest modifier, instead of rolling separately. This doesn’t apply for initiative rolls.
+[b]Expert Arcana[/b]
+
+[b]Level 4:[/b]
+[url=https://docs.google.com/document/d/1N59XHQYvqYCR57nMFkzA_iGdUPh8Si9go7FMmnmhoC0/edit?usp=sharing]Knight of the Pale[/url] Dedication: You gain Trained proficiency in Religion and Knowledge (Demons). If you are already Trained, you gain Expert Proficiency. Whenever you roll a success on a saving throw against an evil outsider’s special ability, you get a critical success instead. This applies to any abilities that come from being an evil outsider, including an evil outsider’s innate spells (but not its prepared or spontaneous spells).
+[b]Expert Religion (KotP)[/b]
+[b]Nimble Crawl:[/b] You can Crawl incredibly swiftly—up to half your Speed, rather than 5 feet. If you’re a master in Acrobatics, you can Crawl at full Speed, and if you’re legendary, you aren’t flat-footed while prone
+[b]Expert Acrobatics[/b]
+
+[b]Level 5:[/b]
+[b]4 Ability boosts[/b]
+- CON
+- DEX
+- INT
+- CHA
+[url=https://2e.aonprd.com/Feats.aspx?ID=1354]Blessed Blood Aasimar:[/url] Your freshly spilled blood is sanctified, and ingesting it causes effects similar to those of holy water. Whenever a fiend, undead, or creature with a weakness to good damage drinks your blood or deals piercing or slashing damage to you with jaws, fangs, or a similar attack, that creature takes 1d6 good damage. You gain a +4 circumstance bonus to Crafting checks to Craft holy water using your own blood as one of the ingredients.
+[b]Additional Lore (celestials):[/b] You knowledge has expanded to encompass a new field. Choose an additional Lore skill subcategory. You become trained in it. At 3rd, 7, and 15th levels, you gain an additional skill increase you can apply only to the chosen Lore.
+[b]Expert Society[/b]
+[b]Trained Deception (INT increase)[/b]
+[b]Sneak Attack 2d6[/b]
+[url=https://2e.aonprd.com/Classes.aspx?ID=10]Weapon Tricks:[/url] You have become thoroughly familiar with the tools of your trade. You gain expert proficiency in simple weapons and unarmed attacks, as well as the rapier, sap, shortbow, and shortsword. When you critically succeed at an attack roll against a flat-footed creature while using an agile or finesse simple weapon or any of the listed weapons, you apply the critical specialization effect for the weapon you’re wielding.
+
+[b]Level 6:[/b]
+[url=https://docs.google.com/document/d/1N59XHQYvqYCR57nMFkzA_iGdUPh8Si9go7FMmnmhoC0/edit?usp=sharing]The Blade of St. Chausle[/url]: A spirit of battle dwells within your armaments. Select one weapon or handwraps of mighty blows when you make your daily preparations. In your hands, the item gains the effect of a property rune and you also gain the weapon's critical specialization effect. For a champion following the tenets of good, choose disrupting, ghost touch, returning, or shifting. For a champion following the tenets of evil, choose fearsome, returning, or shifting.
+[url=https://2e.aonprd.com/Feats.aspx?ID=833]Read Lips:[/url] You can read lips of others nearby who you can clearly see. When you’re at your leisure, you can do this automatically. In encounter mode or when attempting a more difficult feat of lipreading, you’re fascinated and flat-footed during each round in which you focus on lip movements, and you must succeed at a Society check (DC determined by the GM) to successfully read someone’s lips. In either case, the language read must be one that you know.
+[b]Expert Medicine[/b]
+
+[b]Level 7:[/b]
+[url=https://2e.aonprd.com/Classes.aspx?ID=10]Evasion[/url]: You’ve learned to move quickly to avoid explosions, dragons’ breath, and worse. Your proficiency rank for Reflex saves increases to master. When you roll a success on a Reflex save, you get a critical success instead.
+[url=https://2e.aonprd.com/Feats.aspx?ID=857]Trick Magic Item:[/url] You examine a magic item you normally couldn’t use in an effort to fool it and activate it temporarily. For example, this might allow a fighter to cast a spell from a wand or allow a wizard to cast a spell that’s not on the arcane list using a scroll. You must know what activating the item does, or you can’t attempt to trick it.
+Attempt a check using the skill matching the item’s magic tradition, or matching a tradition that has the spell on its list, if you’re trying to cast a spell from the item. The relevant skills are Arcana for arcane, Nature for primal, Occultism for occult, Religion for divine, or any of the four for an item that has the magical trait and not a tradition trait. The GM determines the DC based on the item’s level (possibly adjusted depending on the item or situation).
+If you activate a magic item that requires a spell attack roll or spell DC and you don’t have the ability to cast spells of the relevant tradition, use your level as your proficiency bonus and the highest of your Intelligence, Wisdom, or Charisma modifiers. If you’re a master in the appropriate skill for the item’s tradition, you instead use the trained proficiency bonus, and if you’re legendary, you instead use the expert proficiency bonus.
+[i]Success[/i] For the rest of the current turn, you can spend actions to activate the item as if you could normally use it.
+[i]Failure[/i] You can’t use the item or try to trick it again this turn, but you can try again on subsequent turns.
+[i]Critical Failure[/i] You can’t use the item, and you can’t try to trick it again until your next daily preparations.
+[b]Unmistakable lore:[/b] You never get information about your areas of expertise wrong. When you Recall Knowledge using any Lore subcategory in which you are trained, if you roll a critical failure, you get a failure instead. If you’re a Master in a Lore, on a critical success, you gain even more information or context than usual.
+[b]Master Society[/b]
+[url=https://2e.aonprd.com/Classes.aspx?ID=10]Vigilant Senses:[/url] Through your adventures, you’ve developed keen awareness and attention to detail. Your proficiency rank for Perception increases to master.
+[url=https://2e.aonprd.com/Classes.aspx?ID=10]Weapon Specialization:[/url] You’ve learned how to inflict greater injuries with the weapons you know best. You deal 2 additional damage with weapons and unarmed attacks in which you are an expert. This damage increases to 3 damage if you’re a master, and 4 damage if you’re legendary.
+[/spoiler]
+
+
+
