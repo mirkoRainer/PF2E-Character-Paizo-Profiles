@@ -1,3 +1,7 @@
+Race: |[b]Arcn[/b] (U)+3|[b] Crft[/b] (E)+15|[b] Lore[/b]:Legal(T)+13|[b] Med[/b] (T)+13|[b]Ntr[/b] (T)+13|[b] Occlt[/b] (T)+13|[b] Rlgn[/b] (T)+13|[b] Scty[/b] (U)+3
+Classes/Levels: | HeroPoints: 0 | Speed: 45ft (55ft w/ LS) | [b]Cantrips:[/b] Know Direction, Ray of Frost | [spoiler=Snares] Alarm Snare, Striking Snare, Grasping Snare, Warning Snare [/spoiler]
+Gender: [b]AC[/b] 26 | [b]HP[/b] 26/102 | [b]Fort (E)[/b] +14, [b]Ref (M)[/b] +18, [b]Will (E)[/b] +15 | [b]Focus[/b] 0 | [b]Perception:[/b] +17 (+19 for Initiative) 
+
 Woodland Elf Ranger (Flurry) with Druid Dedication 8
 CG Medium Humanoid (Elf)
 Worshiper of Ketephys (The Hunter)

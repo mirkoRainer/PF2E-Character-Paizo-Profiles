@@ -1,8 +1,14 @@
-Tung Griftskin (pronounced tongue) is a young human Aasimar Knight of the Pale with a dagger that glows golden light that matches his eyes who wants to rid his city of wickedness. 
+Race: |[b]Acro[/b] (E)+15|[b]Arcn[/b] (E)+13|[b]Athl[/b] (T)+10|[b] Crft[/b] (U)+2|[b]Dcptn[/b](T)+11|[b]Dplmcy[/b] (T)+11|[b]Intmdtn[/b] (T)+11|[b]Lore:Clstls[/b] (M)+15|[b]Lore:Dmns[/b] (M)+15|[b]Lore:Ptls[/b] (T)+11|[b]Med[/b] (E)+12|
+Classes/Levels: [b]Ntr[/b] (U)+1|[b]Occlt[/b] (T)+11|[b]Prfrmnc[/b] (U)+2|[b]Rlgn[/b] (E)+12|[b]Scty[/b] (M)+15|[b]Stlth[/b] (E)+16|[b]Srvl[/b] (U)+1|[b]Thvry[/b] (T)+13 | HeroPoints: 0 | Speed: 25ft | 
+Gender: [b]AC[/b] 25 [i]Nimble Dodge[/i] | [b]HP[/b] 78/78 | [b]Fort (T)[/b] +11, [b]Ref (M)[/b] +17, [i]Evasion[/i] [b]Will (E)[/b] +12 | [b]Prcptn:[/b] +14 (+16 for Init) | Divine Ally: Shifting
 
 Aasimar Human Rogue (Thief) Knight Errant of the Knights of the Pale 7
 LG Medium Human Aasimar Humanoid
 Worshiper of Lothian
+This formatted Character Sheet can be found: https://github.com/mirkoRainer/PF2E-Character-Paizo-Profiles
+
+Tung Griftskin (pronounced tongue) is a young human Aasimar Knight of the Pale with a dagger that glows golden light that matches his eyes who wants to rid his city of wickedness. 
+
 [b]Perception:[/b] +14 (+16 for Initiative)
 ------------------------------
 ------------------------------
