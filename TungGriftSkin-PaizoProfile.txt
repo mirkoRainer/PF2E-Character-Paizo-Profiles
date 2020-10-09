@@ -179,21 +179,24 @@ You create a single magical hand, either invisible or ghostlike, that grasps the
 ------------------------------
 [b]Worn[/b]
 +1 Shadow Leather
+
 [i]Bandolier[/i]
-Traveler's Any-Tool
-Rope of Climbing (Lesser)
-Adventurer's Pack
-Climbing Kit
-Hand of the Mage
-Bandolier (2)
 Holy Water (3)
 Healing Potion (Lesser) (2)
+Scroll of See Invisibility
+
+[i]Bandolier[/i]
+Rope of Climbing (Lesser)
+Hand of the Mage
+Spyglass
 Signal Whistle
 Candle (4)
-Arrows(20)
-Spyglass
-Scroll of See Invisibility
+
+[i]Adventurer's Pack[/i]
+Traveler's Any-Tool
+Climbing Kit
 Healer's Tools
+Arrows(20)
 
 [b]Money[/b] 1 GP 1 SP 1 CP
 
