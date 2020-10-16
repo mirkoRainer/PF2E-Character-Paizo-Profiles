@@ -1,7 +1,3 @@
-Race: |[b]Arcn[/b] (U)+3|[b] Crft[/b] (E)+15|[b] Lore[/b]:Legal(T)+13|[b] Med[/b] (T)+13|[b]Ntr[/b] (T)+13|[b] Occlt[/b] (T)+13|[b] Rlgn[/b] (T)+13|[b] Scty[/b] (U)+3
-Classes/Levels: | HeroPoints: 0 | Speed: 45ft (55ft w/ LS) | [b]Cantrips:[/b] Know Direction, Ray of Frost | [spoiler=Snares] Alarm Snare, Striking Snare, Grasping Snare, Warning Snare [/spoiler]
-Gender: [b]AC[/b] 26 | [b]HP[/b] 26/102 | [b]Fort (E)[/b] +14, [b]Ref (M)[/b] +18, [b]Will (E)[/b] +15 | [b]Focus[/b] 0 | [b]Perception:[/b] +17 (+19 for Initiative) 
-
 Woodland Elf Ranger (Flurry) with Druid Dedication 8
 CG Medium Humanoid (Elf)
 Worshiper of Ketephys (The Hunter)
@@ -22,13 +18,25 @@ This formatted Character Sheet can be found: https://github.com/mirkoRainer/PF2E
 [b]Speed[/b] 45 ft. (Elf 30ft + Fleet 5ft + Nimble Elf 5ft + Boots 5ft)
 [b]Ranger DC[/b] 24
 [spoiler=Elven Curved Blade]
-[url=https://2e.aonprd.com/Weapons.aspx?ID=50]+1 Striking Elven Curved Blade[/url] (Elf, Finesse, [url=https://2e.aonprd.com/Traits.aspx?ID=180]Forceful[/url], Uncommon)[/url]
+[url=https://2e.aonprd.com/Weapons.aspx?ID=50][b]+1 Striking Elven Curved Blade[/b][/url] (Elf, Finesse, [url=https://2e.aonprd.com/Traits.aspx?ID=180]Forceful[/url], Uncommon)[/url]
 [dice=[i]Elven Curved Blade[/i] (1)]1d20+17[/dice][dice=Damage]2d8+2[/dice]
 [dice=[i]Elven Curved Blade[/i] (2)]1d20+12[/dice][dice=Damage (Forceful)]2d8+4[/dice]
 [dice=[i]Elven Curved Blade[/i] (3)]1d20+7[/dice][dice=Damage (Forceful)]2d8+6[/dice]
 [dice=[i]Elven Curved Blade vs Prey[/i] (1)]1d20+17[/dice][dice=Damage]2d8+2[/dice]
 [dice=[i]Elven Curved Blade vs Prey[/i] (2)]1d20+14[/dice][dice=Damage (Forceful)]2d8+4[/dice]
 [dice=[i]Elven Curved Blade vs Prey[/i] (3)]1d20+11[/dice][dice=Damage (Forceful)]2d8+6[/dice]
+[/spoiler]
+[spoiler=Centaur Bow]
+[b]+2 Thundering Composite Longbow[/b] (Deadly d10, Propulsive, Volley 30ft, Evocation, Magical, Sonic)
+[i]Range[/i] 100ft
+[i]This weapon lets out a peal of thunder when it hits, dealing an extra 1d6 sonic damage on a successful Strike. On a critical hit, the target has to succeed at a DC 24 Fortitude save or be deafened for 1 minute (or 1 hour on a critical failure).[/i]
+[i][b]Critical Specialization Effect (Bow)[/b] If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile. The target is immobilized and must spend an Interact action to attempt a DC 10 Athletics check to pull the missile free; it can’t move from its space until it succeeds. The creature doesn’t become stuck if it is incorporeal, is liquid (like a water elemental or some oozes), or could otherwise escape without effort.[/i]
+[dice=[i]Centaur Bow[/i] (1)]1d20+18[/dice][dice=Damage]1d8+2+1d6[/dice][dice=Deadly? DC24 Fort (deafened)]1d10[/dice]
+[dice=[i]Centaur Bow[/i] (2)]1d20+13[/dice][dice=Damage]1d8+2+1d6[/dice][dice=Deadly? DC24 Fort (deafened)]1d10[/dice]
+[dice=[i]Centaur Bow[/i] (3)]1d20+8[/dice][dice=Damage]1d8+2+1d6[/dice][dice=Deadly? DC24 Fort (deafened)]1d10[/dice]
+[dice=[i]Centaur Bow vs Prey[/i] (1)]1d20+18[/dice][dice=Damage]1d8+2+1d6[/dice][dice=Deadly? DC24 Fort (deafened)]1d10[/dice]
+[dice=[i]Centaur Bow vs Prey[/i] (2)]1d20+15[/dice][dice=Damage]1d8+2+1d6[/dice][dice=Deadly? DC24 Fort (deafened)]1d10[/dice]
+[dice=[i]Centaur Bow vs Prey[/i] (3)]1d20+12[/dice][dice=Damage]1d8+2+1d6[/dice][dice=Deadly? DC24 Fort (deafened)]1d10[/dice]
 [/spoiler]
 [spoiler=Dagger]
 (Agile, Finesse, Thrown 10ft, Versatile S)
@@ -252,6 +260,7 @@ You also gain specific abilities based on the type of animal you choose:
 [b]Worn[/b]
 +1 Leather Armor
 +1 Striking Elven Curved Sword
++2 Thundering Composite Longbow (Centaur made)
 [spoiler=Hat of Disguise]
 This ordinary-looking hat allows you to cloak yourself in illusions.
 Activate 1 minute (Interact); Frequency once per day; Effect The hat casts a 1st-level illusory disguise spell on you.
@@ -283,7 +292,7 @@ These lenses of forest-green glass are bound in rough leather stitched with crud
 Climbing Kit:           1
 Flint and Steel:        0
 Healer's Tools:         1
-Insistent Door Knocker: 1
+[url=https://2e.aonprd.com/Equipment.aspx?ID=511]Insistent Door Knocker[/url]: 1
 Manacles (Simple x2:    0
 Silversheen:            0.1
 Snare Kit:              2
