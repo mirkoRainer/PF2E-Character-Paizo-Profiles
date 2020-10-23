@@ -1,3 +1,7 @@
+| HeroPoints: 1 | Speed: 45ft (55ft w/ LS) | Arrows:40 | Exploration: Scout(Wildnerness)/Search(Settlement) 
+[spoiler=Hunt Prey Recall Knowledge] Arcana(U) +3; Nature(T) +13; Occult(T) +13; Religion(T) +13; Society(U) +3 [/spoiler]
+[b]AC[/b] 26 | [b]HP[/b] 102/102 | [b]F[/b] +14, [b]R[/b] +18, [b]W[/b] +15 | [b]Focus[/b] 1 | [b]Perception:[/b] +17 (+19 for Initiative) 
+
 Woodland Elf Ranger (Flurry) with Druid Dedication 8
 CG Medium Humanoid (Elf)
 Worshiper of Ketephys (The Hunter)
@@ -245,7 +249,7 @@ You also gain specific abilities based on the type of animal you choose:
 [s][url=https://2e.aonprd.com/Spells.aspx?ID=229]Prestidigitation[/url][/s]
 [s][url=https://2e.aonprd.com/Spells.aspx?ID=236]Produce Flame[/url][/s]
 [url=https://2e.aonprd.com/Spells.aspx?ID=245]Ray of Frost[/url]
-[s]url=https://2e.aonprd.com/Spells.aspx?ID=246]Read Aura[/url][/s]
+[s][url=https://2e.aonprd.com/Spells.aspx?ID=246]Read Aura[/url][/s]
 [s][url=https://2e.aonprd.com/Spells.aspx?ID=286]Sigil[/url][/s]
 [s][url=https://2e.aonprd.com/Spells.aspx?ID=307]Stabilize[/url][/s]
 [s][url=https://2e.aonprd.com/Spells.aspx?ID=330]Tanglefoot[/url][/s]
