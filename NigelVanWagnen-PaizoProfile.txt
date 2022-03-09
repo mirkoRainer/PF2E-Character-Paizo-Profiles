@@ -1,0 +1,636 @@
+Race: |[b]Acro[/b] (T)+13|[b]Arcn[/b] (M)+18|[b]Athl[/b] (U)+8|[b] Crft[/b] (U)+12|[b]Dcptn[/b](U)+8|[b]Dplmcy[/b] (T)+10|[b]Intmdtn[/b] (U)+8|[b]Lore:Hrldry[/b] (T)+14|[b]Med[/b] (U)+10|
+Classes/Levels: [b]Ntr[/b] (U)+10|[b]Occlt[/b] (T)+14|[b]Prfrmnc[/b] (U)+8|[b]Rlgn[/b] (E)+14|[b]Scty[/b] (T)+14|[b]Stlth[/b] (T)+13|[b]Srvl[/b] (U)+10|[b]Thvry[/b] (T)+13 | Speed: 25ft | 
+Gender: [b]AC[/b] Mage Armor 24 | [b]HP[/b] 80/80 | [b]Fort (T)[/b] +13+1(MA), [b]Ref (E)[/b] +15+1(MA), [b]Will (E)[/b] +14+1 | [b]Prcptn:[/b] +12 (+14 for Init) | Exploration: 
+
+Half-Elf Human Abjurer Wizard (Staff Nexus) of the Inverted Pyramid 8
+LG Medium
+This formatted Character Sheet can be found: https://github.com/mirkoRainer/PF2E-Character-Paizo-Profiles
+◆ | ◆◆ | ◆◆◆ | ◇ ◈
+
+[b]Perception:[/b] +12 (+14 for Initiative)
+[b]Speed[/b] 25 ft.
+------------------------------
+------------------------------
+[b]DEFENSE[/b]
+------------------------------
+------------------------------
+[b]AC[/b] 23
+Mage Armor(Heightened 4) 24
+[b]HP[/b] 80/80
+[b]Fort (T)[/b] +13, [b]Ref (E)[/b] +15, [b]Will (E)[/b] +14 
+Mage Armor (Heightened 4) +1 to all saves
+
+------------------------------
+------------------------------
+[b]Spells[/b]
+------------------------------
+------------------------------
+[b]Wizard DC[/b] 26
+------------------------------
+[spoiler=Staff of Abjuration (Greater) (4 Charges per day + Spell Slots given up)]
+While wielding the staff, you gain a +2 circumstance bonus to checks to identify abjuration magic.
+
+Activate Cast a Spell; Effect You expend a number of charges from the staff to cast a spell from its list.
+
+Cantrip shield
+1st [url=https://2e.aonprd.com/Spells.aspx?ID=7]alarm[/url], [url=https://2e.aonprd.com/Spells.aspx?ID=111]feather fall[/url]
+2nd [url=https://2e.aonprd.com/Spells.aspx?ID=78]dispel magic[/url], [url=https://2e.aonprd.com/Spells.aspx?ID=99]endure elements[/url], [url=https://2e.aonprd.com/Spells.aspx?ID=256]resist energy[/url]
+2nd [url=https://2e.aonprd.com/Spells.aspx?ID=78]dispel magic[/url], [url=https://2e.aonprd.com/Spells.aspx?ID=99]endure elements[/url], [url=https://2e.aonprd.com/Spells.aspx?ID=256]resist energy[/url]
+3rd [url=https://2e.aonprd.com/Spells.aspx?ID=7]alarm[/url], [url=https://2e.aonprd.com/Spells.aspx?ID=138]glyph of warding[/url]
+4th [url=https://2e.aonprd.com/Spells.aspx?ID=70]dimensional anchor[/url], [url=https://2e.aonprd.com/Spells.aspx?ID=78]dispel magic[/url], [url=https://2e.aonprd.com/Spells.aspx?ID=256]resist energy[/url]
+[/spoiler]
+------------------------------
+------------------------------
+[i]Cantrips[/i]
+------------------------------
+[spoiler=Daze ◆◆ [dice=Daze Damage]1d6+4[/dice]]
+Cantrip|Enchantment|Mental|Nonlethal
+somatic, verbal
+Range 60 feet; Targets 1 creature
+Saving Throw Will; Duration 1 round
+You cloud the target's mind and daze it with a mental jolt. The jolt deals mental damage equal to your spellcasting ability modifier (1d6+4); the target must attempt a basic Will save. If the target critically fails the save, it is also stunned 1.
+Heightened (+2) The damage increases by 1d6.
+[/spoiler]
+[spoiler=Detect Magic ◆◆]
+Cantrip Detection Divination
+somatic, verbal
+Area 30-foot emanation
+You send out a pulse that registers the presence of magic. You receive no information beyond the presence or absence of magic. You can choose to ignore magic you're fully aware of, such as the magic items and ongoing spells of you and your allies.
+
+You detect illusion magic only if that magic's effect has a lower level than the level of your detect magic spell. However, items that have an illusion aura but aren't deceptive in appearance (such as an invisibility potion) typically are detected normally.
+Heightened (3rd) You learn the school of magic for the highest-level effect within range that the spell detects. If multiple effects are equally strong, the GM determines which you learn.
+Heightened (4th) As 3rd level, but you also pinpoint the source of the highest-level magic. Like for an imprecise sense, you don't learn the exact location, but can narrow down the source to within a 5-foot cube (or the nearest if larger than that).
+[/spoiler]
+[spoiler=Electric Arc ◆◆ [dice=Daze Damage]4d4+4[/dice]]
+Cantrip Electricity Evocation
+somatic, verbal
+Range 30 feet; Targets 1 or 2 creatures
+Saving Throw basic Reflex
+An arc of lightning leaps from one target to another. You deal electricity damage equal to 4d4 plus your spellcasting ability modifier.
+Heightened (+1) The damage increases by 1d4.
+[/spoiler]
+[spoiler=Ghost Sound ◆◆]
+Auditory Cantrip Illusion
+somatic, verbal
+Range 60 feet
+Duration sustained
+You create an auditory illusion of simple sounds that has a maximum volume equal to four normal humans shouting. The sounds emanate from a square you designate within range. You can't create intelligible words or other intricate sounds (such as music).
+Heightened (3rd) The range increases to 60 feet.
+Heightened (5th) The range increases to 120 feet.
+[/spoiler]
+[spoiler=Infectious Enthusiasm ◆◆]
+Cantrip Emotion Enchantment Mental
+somatic, verbal
+Duration 1 round
+
+With enchanted gusto, you encourage yourself to get things done and share your motivation with your allies. You gain a +1 status bonus to your choice of attack rolls, Will saves, or Charisma-based skill checks. During the spell's duration, an ally who observed you Casting this Spell and was within 30 feet when you did so can take a single action, which has the concentrate trait, to gain the same bonus you chose until the start of its next turn.
+
+Using this spell to influence someone in a social situation is typically considered a faux pas, negating the benefit on Charisma-based skills if the subject of the check observed you casting the spell.
+[/spoiler]
+[spoiler=Light ◆◆]
+Cantrip Evocation Light
+somatic, verbal
+Range touch; Targets 1 object of 1 Bulk or less, either unattended or possessed by you or a willing ally
+Duration until the next time you make your daily preparations
+The object glows, casting bright light in a 60-foot radius (and dim light for the next 60 feet) like a torch. If you cast this spell again on a second object, the light spell on the first object ends.
+Heightened (4th) The object sheds bright light in a 60-foot radius (and dim light for the next 60 feet).
+[/spoiler]
+[spoiler=Mage Hand ◆◆]
+Cantrip Evocation
+somatic, verbal
+Range 30 feet; Targets 1 unattended object of Bulk 1 or less
+Duration sustained
+You create a single magical hand, either invisible or ghostlike, that grasps the target object and moves it slowly up to 20 feet. Because you're levitating the object, you can move it in any direction. When you Sustain the Spell, you can move the object an additional 20 feet. If the object is in the air when the spell ends, the object falls.
+Heightened (3rd) You can target an unattended object with a Bulk of 1 or less.
+Heightened (5th) The range increases to 60 feet, and you can target an unattended object with a Bulk of 1 or less.
+Heightened (7th) The range increases to 60 feet, and you can target an unattended object with a Bulk of 2 or less.
+[/spoiler]
+[spoiler=Message ◆]
+Auditory Cantrip Illusion Linguistic Mental
+verbal
+Range 500 feet; Targets 1 creature
+Duration see below
+You mouth words quietly, but instead of coming out of your mouth, they're transferred directly to the ears of the target. While others can't hear your words any better than if you normally mouthed them, the target can hear your words as if they were standing next to you. The target can give a brief response as a reaction, or as a free action on their next turn if they wish, but they must be able to see you and be within range to do so. If they respond, their response is delivered directly to your ear, just like the original message.
+Heightened (3rd) The spell's range increases to 500 feet.
+[/spoiler]
+[spoiler=Read Aura]
+Cantrip Detection Divination
+1 minute (somatic, verbal)
+Range 30 feet; Targets up to 10 objects
+You focus on the target object, opening your mind to perceive magical auras. When the casting is complete, you know whether that item is magical, and if it is, you learn the school of magic (pages 297-298).
+
+If the object is illusory, you detect this only if the effect's level is lower than the level of your read aura spell.
+Heightened (3rd) You can target up to 10 objects.
+Heightened (6th) You can target any number of objects.
+[/spoiler]
+[spoiler=Shield ◆]
+Abjuration Cantrip Force
+verbal
+Duration until the start of your next turn
+You raise a magical shield of force. This counts as using the Raise a Shield action, giving you a +1 circumstance bonus to AC until the start of your next turn, but it doesn't require a hand to use.
+
+While the spell is in effect, you can use the Shield Block reaction with your magic shield. The shield has Hardness 10. After you use Shield Block, the spell ends and you can't cast it again for 10 minutes. Unlike a normal Shield Block, you can use the spell's reaction against the magic missile spell.
+
+Heightening the spell increases the shield's Hardness.
+Heightened (3rd) The shield has Hardness 10.
+Heightened (5th) The shield has Hardness 15.
+Heightened (7th) The shield has Hardness 20.
+Heightened (9th) The shield has Hardness 25.
+[/spoiler]
+[spoiler=Sigil ◆◆]
+Cantrip Transmutation
+somatic, verbal
+Range touch; Targets 1 creature or object
+Duration unlimited (see below)
+You harmlessly place your unique magical sigil, which is about 1 square inch in size, on the targeted creature or object. The mark can be visible or invisible, and you can change it from one state to another by using an Interact action to touch the target. The mark can be scrubbed or scraped off with 5 minutes of work. If it's on a creature, it fades naturally over the course of a week. The time before the mark fades increases depending on your heightened level.
+Heightened (3rd) The sigil instead fades after 1 month.
+Heightened (5th) The sigil instead fades after 1 year.
+Heightened (7th) The sigil never fades.
+[/spoiler]
+[spoiler=Tanglefoot ◆◆]
+Attack Cantrip Conjuration Plant
+somatic, verbal
+Range 30 feet; Targets 1 creature
+A vine covered in sticky sap appears from thin air, flicking from your hand and lashing itself to the target. Attempt a spell attack against the target.
+
+Critical Success The target gains the immobilized condition and takes a -10-foot circumstance penalty to its Speeds for 1 minute. It can attempt to Escape against your spell DC to remove the penalty and the immobilized condition.
+Success The target takes a -10-foot circumstance penalty to its Speeds for 1 round. It can attempt to Escape against your spell DC to remove the penalty.
+Failure The target is unaffected.
+Heightened (2nd) The effects last for 2 rounds.
+Heightened (4th) The effects last for 1 minute.
+[/spoiler]
+------------------------------
+[i]1st Level Spells[/i]
+------------------------------
+[spoiler=Befuddle ◆◆]
+Emotion Enchantment Mental
+somatic, verbal
+Range 30 feet
+Target(s) 1 creature; Saving Throw Will
+Duration 1 round
+
+You sow seeds of confusion in your target’s mind, causing their actions and thoughts to become clumsy.
+
+Critical Success The target is unaffected.
+Success The target is clumsy 1 and stupefied 1.
+Failure The target is clumsy 2 and stupefied 2.
+Critical Failure The target is clumsy 3, stupefied 3, and confused.
+[/spoiler]
+[spoiler=Charm ◆◆ (Inverted Pyramid)]
+Emotion Enchantment Incapacitation Mental
+somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration 1 hour
+To the target, your words are honey and your visage seems bathed in a dreamy haze. It must attempt a Will save, with a +4 circumstance bonus if you or your allies recently threatened it or used hostile actions against it.
+
+You can Dismiss the spell. If you use hostile actions against the target, the spell ends. When the spell ends, the target doesn't necessarily realize it was charmed unless its friendship with you or the actions you convinced it to take clash with its expectations, meaning you could potentially convince the target to continue being your friend via mundane means.
+
+Critical Success The target is unaffected and aware you tried to charm it.
+Success The target is unaffected but thinks your spell was something harmless instead of charm, unless it identifies the spell (see Identifying Magic section on page 305).
+Failure The target's attitude becomes friendly toward you. If it was friendly, it becomes helpful. It can't use hostile actions against you.
+Critical Failure The target's attitude becomes helpful toward you, and it can't use hostile actions against you.
+Heightened (4th) The duration lasts until the next time you make your daily preparations.
+Heightened (8th) The duration lasts until the next time you make your daily preparations, and you can target up to 10 creatures.
+[/spoiler]
+[spoiler=Fear ◆◆]
+Emotion Enchantment Fear Mental
+somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration varies
+You plant fear in the target; it must attempt a Will save.
+
+Critical Success The target is unaffected.
+Success The target is frightened 1.
+Failure The target is frightened 2.
+Critical Failure The target is frightened 3 and fleeing for 1 round.
+Heightened (3rd) You can target up to five creatures.
+[/spoiler]
+[spoiler=Feather Fall (R)]
+Abjuration
+verbal; Trigger a creature within range is falling
+Range 60 feet; Targets 1 falling creature
+Duration 1 minute
+You cause the air itself to arrest a fall. The target's fall slows to 60 feet per round, and the portion of the fall during the spell's duration doesn't count when calculating falling damage. If the target reaches the ground while the spell is in effect, it takes no damage from the fall. The spell ends as soon as the target lands.
+[/spoiler]
+[spoiler=Gravitational Pull ◆-◆◆◆]
+Evocation
+material, somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Fortitude
+
+By suddenly altering gravity, you pull the target toward you. The target is pulled 10 feet closer to you unless it succeeds at a Fortitude save. On a critical failure, it's also knocked prone. The effects of this spell change depending on the number of actions you spend when you Cast this Spell.
+
+(somatic) The spell targets one creature.
+(somatic, verbal) The spell targets one creature and pulls the target 20 feet instead of 10.
+(material, somatic, verbal) The spell targets up to 5 creatures.
+[/spoiler]
+[spoiler=Grease ◆◆]
+Conjuration
+somatic, verbal
+Range 30 feet; Area 4 contiguous 5-foot squares or; Targets 1 object of Bulk 1 or less
+Duration 1 minute
+You conjure grease, with effects based on choosing area or target.
+Area All solid ground in the area is covered with grease. Each creature standing on the greasy surface must succeed at a Reflex save or an Acrobatics check against your spell DC or fall prone. Creatures using an action to move onto the greasy surface during the spell's duration must attempt either a Reflex save or an Acrobatics check to Balance. A creature that Steps or Crawls doesn't have to attempt a check or save.
+Target If you cast the spell on an unattended object, anyone trying to pick up the object must succeed at an Acrobatics check or Reflex save against your spell DC to do so. If you target an attended object, the creature that has the object must attempt an Acrobatics check or Reflex save. On a failure, the holder or wielder takes a -2 circumstance penalty to all checks that involve using the object; on a critical failure, the holder or wielder releases the item. The object lands in an adjacent square of the GM's choice. If you cast this spell on a worn object, the wearer gains a +2 circumstance bonus to Fortitude saves against attempts to grapple them.
+[/spoiler]
+[spoiler=Gust of Wind ◆◆ [dice=DamageOnCritFail]2d6[/dice]]
+AirEvocation
+somatic, verbal
+Area 60-foot line
+Duration until the start of your next turn
+A violent wind issues forth from your palm, blowing from the point where you are when you cast the spell to the line's opposite end. The wind extinguishes small non-magical fires, disperses fog and mist, blows objects of light Bulk or less around, and pushes larger objects. Large or smaller creatures in the area must attempt a Fortitude save. Large or smaller creatures that later move into the gust must attempt the save on entering.
+
+Critical Success The creature is unaffected.
+Success The creature can't move against the wind.
+Failure The creature is knocked prone. If it was flying, it suffers the effects of critical failure instead.
+Critical Failure The creature is pushed 30 feet in the wind's direction, knocked prone, and takes 2d6 bludgeoning damage.
+[/spoiler]
+[spoiler=Mage Armor ◆◆ [dice=DamageOnCritFail]2d6[/dice]]
+Abjuration
+somatic, verbal
+Duration until the next time you make your daily preparations
+You ward yourself with shimmering magical energy, gaining a +1 item bonus to AC and a maximum Dexterity modifier of +5. While wearing mage armor, you use your unarmored proficiency to calculate your AC.
+Heightened (4th) You gain a +1 item bonus to saving throws.
+Heightened (6th) The item bonus to AC increases to +2, and you gain a +1 item bonus to saving throws.
+Heightened (8th) The item bonus to AC increases to +2, and you gain a +2 item bonus to saving throws.
+Heightened (10th) The item bonus to AC increases to +3, and you gain a +3 item bonus to saving throws.
+[/spoiler]
+[spoiler=Mending]
+Transmutation
+10 minutes (somatic, verbal)
+Range touch; Targets non-magical object of light Bulk or less
+You repair the target item. You restore 5 Hit Points per spell level to the target, potentially removing the broken condition if this repairs it past the item's Broken Threshold. You can't replace lost pieces or repair an object that's been completely destroyed.
+Heightened (2nd) You can target a non-magical object of 1 Bulk or less.
+Heightened (3rd) You can target a non-magical object of 2 Bulk or less, or a magical object of 1 Bulk or less.
+[/spoiler]
+[spoiler=True Strike ◆]
+Divination Fortune
+verbal
+Duration until the end of your turn
+A glimpse into the future ensures your next blow strikes true. The next time you make an attack roll before the end of your turn, roll the attack twice and use the better result. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being concealed or hidden.
+[/spoiler]
+------------------------------
+[i]2nd Level Spells[/i]
+------------------------------
+[spoiler=Dispel Magic ◆◆]
+Abjuration
+somatic, verbal
+Range 120 feet; Targets 1 spell effect or unattended magic item
+You unravel the magic behind a spell or effect. Attempt a counteract check against the target (page 458). If you succeed against a spell effect, you counteract it. If you succeed against a magic item, the item becomes a mundane item of its type for 10 minutes. This doesn't change the item's non-magical properties. If the target is an artifact or similar item, you automatically fail.
+[/spoiler]
+[spoiler=Enlarge ◆◆]
+Polymorph Transmutation
+somatic, verbal
+Range 30 feet; Targets 1 willing creature
+Duration 5 minutes
+Bolstered by magical power, the target grows to size Large. Its equipment grows with it but returns to natural size if removed. The creature is clumsy 1. Its reach increases by 5 feet (or by 10 feet if it started out Tiny), and it gains a +2 status bonus to melee damage. This spell has no effect on a Large or larger creature.
+Heightened (4th) The creature instead grows to size Huge. The status bonus to melee damage is +4 and the creature's reach increases by 10 feet (or 15 feet if the creature started out Tiny). The spell has no effect on a Huge or larger creature.
+Heightened (6th) Choose either the 2nd-level or 4th-level version of this spell and apply its effects to 10 willing creatures.
+[/spoiler]
+[spoiler=Invisibility ◆◆]
+Illusion
+material, somatic
+Range touch; Targets 1 creature
+Duration 10 minutes
+Cloaked in illusion, the target becomes invisible. This makes it undetected to all creatures, though the creatures can attempt to find the target, making it hidden to them instead (page 466). If the target uses a hostile action, the spell ends after that hostile action is completed.
+Heightened (4th) The spell lasts 1 minute, but it doesn't end if the target uses a hostile action.
+[/spoiler]
+[spoiler=Scorching Ray ◆-◆◆◆ [dice=Damage]2d6[/dice] [dice=Damage]4d6[/dice]]
+Attack Evocation Fire
+somatic, verbal
+Range 60 feet; Targets 1 or more creatures
+You fire a ray of heat and flame. Make a spell attack roll against a single creature. On a hit, the target takes 2d6 fire damage, and on a critical hit, the target takes double damage.
+For each additional action you use when Casting the Spell, you can fire an additional ray at a different target, to a maximum of three rays targeting three different targets for 3 actions. These attacks each increase your multiple attack penalty, but you don't increase your multiple attack penalty until after you make all the spell attack rolls for scorching ray. If you spend 2 or more actions Casting the Spell, the damage increases to 4d6 fire damage on a hit, and it still deals double damage on a critical hit.
+Heightened (+1) The damage to each target increases by 1d6 for the 1-action version, or by 2d6 for the 2-action and 3-action versions.
+[/spoiler]
+------------------------------
+[i]3rd Level Spells[/i]
+------------------------------
+[spoiler=Day's Weight ◆◆]
+Transmutation
+somatic, verbal
+Range 120 feet; Targets 1 living creature
+Saving Throw Fortitude; Duration 1 minute
+
+You fast-forward time for a single creature, burdening it with the aches and pain of an entire day and making it temporarily tired and weak. The creature must attempt a Fortitude save.
+
+Critical Success The target is unaffected.
+Success The target is fatigued and enfeebled 1 for 1 round.
+Failure The target is fatigued and enfeebled 1 for the duration.
+Critical Failure The target is fatigued and enfeebled 2 for the duration. The fatigued condition doesn't end when the spell's duration does (but can still be removed with a night's rest or by similar means).
+
+Heightened (6th) You can target up to 10 creatures
+[/spoiler]
+[spoiler=Haste ◆◆]
+Transmutation
+somatic, verbal
+Range 30 feet; Targets 1 creature
+Duration 1 minute
+Magic empowers the target to act faster. It gains the quickened condition and can use the extra action each round only for Strike and Stride actions.
+Heightened (7th) You can target up to 6 creatures.
+[/spoiler]
+[spoiler=Safe Passage ◆◆◆]
+Abjuration
+material, somatic, verbal
+Range touch; Area 10-foot-wide, 10-foot-tall, 60-foot-long section of terrain
+Duration sustained up to 1 minute
+You repel dangers from all around you, making passage through the chosen area safe for a brief amount of time. Anyone passing through the area gains the following benefits against harmful effects of the terrain and environment, including environmental damage, hazardous terrain, and hazards in the area. The spell grants a +2 status bonus to AC and saves against such effects, and resistance 5 to all damage from such effects. Furthermore, the spell prevents anything in the area that's prone to collapse, such as a rickety bridge or an unstable ceiling, from collapsing, except under extreme strain that would collapse a normal structure of its type.
+
+Safe passage protects only against harm, not inconvenience, and it doesn't reduce difficult terrain, remove the concealed condition caused by precipitation, or the like, nor does it protect against creatures within the spell's area.
+Heightened (5th) The granted resistance increases to 10, and the area can be 120 feet long.
+Heightened (8th) The granted resistance increases to 15, and the area can be 500 feet long.
+[/spoiler]
+[spoiler=Slow ◆◆]
+Transmutation
+somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Fortitude; Duration 1 minute
+You dilate the flow of time around the target, slowing its actions.
+
+Critical Success The target is unaffected.
+Success The target is slowed 1 for 1 round.
+Failure The target is slowed 1 for 1 minute.
+Critical Failure The target is slowed 2 for 1 minute.
+Heightened (6th) You can target up to 10 creatures.
+[/spoiler]
+------------------------------
+[i]4th Level Spells[/i]
+------------------------------
+[spoiler=Dimensional Anchor ◆◆]
+Abjuration
+somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration varies
+You interfere with the target's ability to teleport and travel between dimensions. Dimensional anchor attempts to counteract any teleportation effect, or any effect that would move the target to a different plane. The duration is determined by the target's Will save.
+
+Critical Success The target is unaffected.
+Success The effect's duration is 1 minute.
+Failure The effect's duration is 10 minutes.
+Critical Failure The effect's duration is 1 hour.
+[/spoiler]
+[spoiler=Enervation ◆◆ [dice=Damage]2d8[/dice] [dice=Damage]4d8[/dice]]
+somatic, verbal
+Area 30-foot line
+Saving Throw Fortitude
+Extending a finger, you fire a beam of negative energy that weakens the life force of any creature it touches. Each living creature in the line must attempt a Fortitude save.
+
+Critical Success The creature is unaffected.
+Success The creature takes 2d8 persistent negative damage.
+Failure The creature takes 4d8 persistent negative damage and becomes drained 1.
+Critical Failure The creature takes 4d8 persistent negative damage and becomes drained 2 and doomed 1.
+Heightened (+2) The persistent negative damage increases by 1d8 on a success, or by 2d8 on a failure or critical failure.
+[/spoiler]
+[spoiler=Freedom of Movement ◆◆]
+Abjuration
+somatic, verbal
+Range touch; Targets 1 creature touched
+Duration 10 minutes
+You repel effects that would hinder a creature or slow its movement. While under this spell's effect, the target ignores effects that would give them a circumstance penalty to Speed. When they attempt to Escape an effect that has them immobilized, grabbed, or restrained, they automatically succeed unless the effect is magical and of a higher level than the freedom of movement spell.
+[/spoiler]
+[spoiler=Resilient Sphere ◆◆]
+Abjuration Force
+somatic, verbal
+Range 30 feet; Targets 1 Large or smaller creature
+Duration 1 minute
+You create an immobile sphere of force to either trap or protect the target, blocking anything that would pass through the sphere. The sphere has AC 5, Hardness 10, and 40 Hit Points. It's immune to critical hits and precision damage. Disintegrate destroys the sphere instantly. If the target is unwilling, the effects of the sphere depend on the target's Reflex save.
+
+Critical Success The target disrupts the sphere's integrity, causing it to collapse entirely.
+Success The sphere functions normally but has only 10 Hit Points instead of 40.
+Failure The sphere has its normal effect.
+[/spoiler]
+------------------------------
+[i]Focus Spells[/i]
+------------------------------
+[spoiler=Resilient Sphere ◆]
+Uncommon Abjuration Wizard
+somatic
+Area 5-foot-radius emanation centered on you
+Duration sustained up to 1 minute
+You emanate a shimmering aura of protective magic. You and any allies in the area gain a +1 status bonus to AC. Each time you Sustain the Spell, the emanation's radius increases by 5 feet, to a maximum of 30 feet.
+[/spoiler]
+[spoiler=Energy Absorption (R)]
+Uncommon Abjuration Wizard
+verbal; Trigger An effect would deal acid, cold, electricity, or fire damage to you.
+You gain resistance 15 to acid, cold, electricity, or fire damage from the triggering effect (one type of your choice). The resistance applies only to the triggering effect's initial damage.
+Heightened (+1) The resistance increases by 5.
+[/spoiler]
+------------------------------
+------------------------------
+[b]STATISTICS[/b]
+------------------------------
+------------------------------
+[spoiler=Ability Scores]
+[b]STR[/b] 10 [i]+0[/i]
+[b]DEX[/b] 16 [i]+3[/i]
+[b]CON[/b] 16 [i]+3[/i]
+[b]INT[/b] 19 [i]+4[/i]
+[b]WIS[/b] 14 [i]+2[/i]
+[b]CHA[/b] 10 [i]+0[/i]
+[/spoiler]
+
+[spoiler=Skills (Clever Improvisor)]
+[dice=[b]Acrobatics         (T)[/b]]1d20 [b]+13[/b] [/dice]
+[dice=[b]Arcana             (M)[/b]]1d20 [b]+18[/b] [/dice]
+[dice=[b]Athletics          (U)[/b]]1d20 [b]+8 [/b] [/dice]
+[dice=[b]Crafting           (U)[/b]]1d20 [b]+12[/b] [/dice]
+[dice=[b]Deception          (U)[/b]]1d20 [b]+8 [/b] [/dice]
+[dice=[b]Diplomacy          (T)[/b]]1d20 [b]+10[/b] [/dice]
+[dice=[b]Intimidation       (U)[/b]]1d20 [b]+8 [/b] [/dice]
+[dice=[b]Lore:Heraldry      (T)[/b]]1d20 [b]+14[/b] [/dice]
+[dice=[b]Medicine           (U)[/b]]1d20 [b]+10[/b] [/dice]
+[dice=[b]Nature             (U)[/b]]1d20 [b]+10[/b] [/dice]
+[dice=[b]Occultism          (T)[/b]]1d20 [b]+14[/b] [/dice]
+[dice=[b]Performance        (U)[/b]]1d20 [b]+8 [/b] [/dice]
+[dice=[b]Religion           (E)[/b]]1d20 [b]+14[/b] [/dice]
+[dice=[b]Society            (T)[/b]]1d20 [b]+14[/b] [/dice]
+[dice=[b]Stealth            (T)[/b]]1d20 [b]+13[/b] [/dice]
+[dice=[b]Survival           (U)[/b]]1d20 [b]+10[/b] [/dice]
+[dice=[b]Thievery           (T)[/b]]1d20 [b]+13[/b] [/dice]
+[/spoiler]
+
+[b]Languages[/b] Common(Imperial), Draconic, Halfling, Jotun, Undercommon
+
+------------------------------
+------------------------------
+[b]SPECIAL ABILITIES[/b]
+------------------------------
+------------------------------
+[spoiler=Abilities]
+[b]Encounter Abilities[/b]
+------------------------------
+[i]Agility Abilities[/i]
+------------------------------
+[b]Drain Bonded Item ◇[/b] 
+Frequency once per day
+Requirements You haven't acted yet on your turn
+You expend the power stored in your bonded item. During your turn, you gain the ability to cast one spell you prepared today and already cast, without spending a spell slot. You must still Cast the Spell and meet the spell’s other requirements.
+------------------------------
+[b]Assured Identification[/b] 
+Prerequisites expert in Arcana, Nature, Occultism, or Religion
+You rarely misidentify an item. When using Arcana, Nature, Occultism, or Religion checks to Identify Magic, if you roll a critical failure, you get a failure instead. If you would misidentify a cursed item because you roll a success but not a critical success, you simply can't identify it instead.
+------------------------------
+[b]Counterspell (R)[/b]
+Trigger A creature Casts a Spell that you have prepared.
+When a foe Casts a Spell and you can see its manifestations, you can use your own magic to disrupt it. You expend a prepared spell to counter the triggering creature’s casting of that same spell. You lose your spell slot as if you had cast the triggering spell. You then attempt to counteract the triggering spell (page 458).
+------------------------------
+[b]Courtly Graces[/b]
+Trigger A creature Casts a Spell that you have prepared.
+When a foe Casts a Spell and you can see its manifestations, you can use your own magic to disrupt it. You expend a prepared spell to counter the triggering creature’s casting of that same spell. You lose your spell slot as if you had cast the triggering spell. You then attempt to counteract the triggering spell (page 458).
+------------------------------
+[b]Linked Focus[/b]
+Frequency once per day
+Prerequisites arcane bond, arcane school
+You have linked your bonded item to the well of energy that powers your school spells. When you Drain your Bonded Item to cast a spell of your arcane school, you also regain 1 Focus Point.
+------------------------------
+[b]Quick Identification[/b] 
+Prerequisites trained in Arcana, Nature, Occultism or Religion
+You can Identify Magic swiftly. You take only 1 minute when using Identify Magic to determine the properties of an item, ongoing effect, or location, rather than 10 minutes. If you’re a master, it takes a 3-action activity, and if you’re legendary, it takes 1 action.
+------------------------------
+[b]Quick Recognition[/b]
+Prerequisites master in Arcana, Nature, Occultism, or Religion; Recognize Spell
+You Recognize Spells swiftly. Once per round, you can Recognize a Spell using a skill in which you’re a master as a free action.
+------------------------------
+[b]Recognize Spell[/b]
+Prerequisites trained in Arcana, Nature, Occultism, or Religion
+Trigger A creature within line of sight casts a spell that you don’t have prepared or in your spell repertoire, or a trap or similar object casts such a spell. You must be aware of the casting.
+If you are trained in the appropriate skill for the spell’s tradition and it’s a common spell of 2nd level or lower, you automatically identify it (you still roll to attempt to get a critical success, but can’t get a worse result than success). The highest level of spell you automatically identify increases to 4 if you’re an expert, 6 if you’re a master, and 10 if you’re legendary. The GM rolls a secret Arcana, Nature, Occultism, or Religion check, whichever corresponds to the tradition of the spell being cast. If you’re not trained in the skill, you can’t get a result better than failure.
+
+Critical Success You correctly recognize the spell and gain a +1 circumstance bonus to your saving throw or your AC against it.
+Success You correctly recognize the spell.
+Failure You fail to recognize the spell.
+Critical Failure You misidentify the spell as another spell entirely, of the GM’s choice.
+------------------------------
+[b]Staff Nexus[/b]
+Your thesis maintains that early and intense adoption of staves from the first days of study can create a symbiotic bond between spellcaster and staff, allowing them to create remarkable magic together. You've formed such a connection with a makeshift staff you built, and you are ready to infuse any staff you encounter with greater power.
+
+You begin play with a makeshift staff of your own invention. It contains one cantrip and one 1st-level spell, both from your spellbook, but it gains no charges normally during your preparations; you must expend a spell slot to grant it charges in the same way you would add additional charges to a normal staff. You can craft your makeshift staff into any other type of staff for the new staff's usual cost, adding the two spells you originally chose to the staff you Craft.
+
+At 8th level, you can expend two spells instead of one when preparing your staff, adding additional charges equal to the combined levels of the expended spells. At 16th level, you can expend up to a total of three spells to add charges to the staff, adding additional charges equal to the combined levels of all three spells.
+------------------------------
+[b]Inverted Pyramid Agent Dedication[/b]
+Prerequisites Trained in Arcana. Member of the Inverted Pyramid.
+You devote much of your time to the study of arcane magic. You gain two common or uncommon arcane cantrips and two common or uncommon 1st-level arcane spells added to your spellbook or repertoire. You also gain one 1st-level Inverted Pyramid spell slot. You can use your Inverted Pyramid spell slot to spontaneously cast any 1st level arcane spell in your spellbook if you are a wizard or known to you if you are not a wizard.
+------------------------------
+[b]Prescient Planner[/b]
+General
+Cost the Price of the chosen item
+Requirements You haven't used this ability since the last time you were able to purchase goods.
+You regularly create convoluted plans and contingencies, using your resources to enact them. You take 1 minute to remove your backpack, then carefully remove an item you hadn't previously declared that you purchased-you intuited that you would come to need the item and purchased it at the latest opportunity. The item must be a piece of adventuring gear, and can't be a weapon, armor, alchemical item, magic item, or other treasure. It must be common with a level no higher than half your level, and its Bulk must be low enough that carrying it wouldn't have made you encumbered.
+[/spoiler]
+ 
+------------------------------
+------------------------------
+[b]GEAR/POSSESSIONS[/b]
+------------------------------
+------------------------------
+[b]Encumbered[/b] 5 Bulk
+[b]Max[/b] 10 Bulk
+[b]Current Load Carried[/b] 2 Bulk
+
+[b]Feather Token (Fan)[/b] 
+Activating this feather requires you to fan it in a given direction. If this direction is toward the sail of a vessel, the feather flutters up toward the sail and fans continuously, filling the sail with air and granting the vessel a +10-foot circumstance bonus to its Speed for 8 hours. If fanned in any other direction, it instead produces a single casting of gust of wind (DC 20).
+
+[b]Feather Token (Ladder)[/b]
+When activated, this feather transforms permanently into a 20-foot-long wooden ladder.
+
+[b]Perfect Droplet[/b]
+affixed to armor or a weapon
+Intense blue water magically holds its shape-a perfect sphere. The spell DC of any spell cast by Activating this item is 17.
+[b]Armor[/b] You gain resistance 2 to water effects and attacks by water creatures.
+Weapon After you cast a water spell by Activating the droplet, your body becomes mistlike. Until the end of the turn, you can move through enemies' spaces, treating each square in their spaces as difficult terrain. You can't move through creatures that have the water trait in this way.
+
+Activate Cast a Spell; [i]Effect[/i] You cast [url=https://2e.aonprd.com/Spells.aspx?ID=1002]spout[/url].
+
+[b]Signal Whistle[/b]
+When sounded, a signal whistle can be heard clearly up to half a mile away across open terrain.
+
+------------------------------
+[b]Worn[/b]
+Material Component Pouch
+Signal Whistle
+
+[i]Backpack[/i]
+Bedroll
+Chalk x10
+Healing Potion Lesser x3
+Rations x2
+Soap
+Wand of Alarm
+Writing settlement
+Candle x10
+Flint and Steel
+Mirror
+Rope
+Torch x5
+Waterskin
+
+[b]Money[/b] 26 GP 8 SP 2 CP
+
+------------------------------
+------------------------------
+[b]Build[/b]
+------------------------------
+------------------------------
+[spoiler=Background]
+This section is under construction...
+[/spoiler]
+[spoiler=Appearance]
+Middling height half-elf with longer dull white hair. Plain robes with a black leather bag slung over one shoulder. A slender perfectly straight staff with a small orb in one hand. The orb swirls with dull magical essence in a fascinating dance. His voice is melodious with serious undertones.
+[/spoiler]
+[spoiler=Build]
+[b]Level 1[/b]
+Ancestry: Human
+Background: Noble (Heraldry Lore)
+Class: Wizard
+Ancestry Boosts: INT, DEX
+Background Boosts: INT, CON
+Class Boost: INT
+Free Boosts: CON, WIS, DEX, INT
+Skills Trained Level 1: 
+- Acrobatics
+- Arcana
+- Diplomacy
+- Lore Heraldry
+- Occultism
+- Religion
+- Society
+- Stealth
+- Thievery
+Heritage: Half-Elf
+Ancestry Feat: Natural Ambition
+    Class Feat: Counterspell
+Arcane School: Abjuration
+Arcane Thesis: Staff Nexus
+=============================
+[b]Level 2[/b]
+Skill Feat: Recognize Spell
+Class Feat: Cantrip Expansion
+=============================
+[b]Level 3[/b]
+Skill Increase to Expert: Arcana
+General Feat: Incredible Initiative
+=============================
+[b]Level 4[/b]
+Skill Feat: Assured Identification
+Class Feat: Linked Focus
+=============================
+[b]Level 5[/b]
+Skill increase: Religion
+Ability Boosts: CON, WIS, DEX, INT
+Ancestry Feat: Clever Improviser
+=============================
+[b]Level 6[/b]
+Skill Feat: Quick Identification
+Class Feat: Inverted Pyramid Agent Dedication
+=============================
+[b]Level 7[/b]
+Skill Increase: Arcana to master
+General Feat: Prescient Planner
+=============================
+[b]Level 8[/b]
+Skill Feat: Quick Recognition
+Class Feat: Advanced School Spell
+[/spoiler]
+
+
+
