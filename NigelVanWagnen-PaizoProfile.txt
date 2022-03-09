@@ -1,6 +1,6 @@
 Race: |[b]Acro[/b] (T)+13|[b]Arcn[/b] (M)+18|[b]Athl[/b] (U)+8|[b] Crft[/b] (U)+12|[b]Dcptn[/b](U)+8|[b]Dplmcy[/b] (T)+10|[b]Intmdtn[/b] (U)+8|[b]Lore:Hrldry[/b] (T)+14|[b]Med[/b] (U)+10|
-Classes/Levels: [b]Ntr[/b] (U)+10|[b]Occlt[/b] (T)+14|[b]Prfrmnc[/b] (U)+8|[b]Rlgn[/b] (E)+14|[b]Scty[/b] (T)+14|[b]Stlth[/b] (T)+13|[b]Srvl[/b] (U)+10|[b]Thvry[/b] (T)+13 | Speed: 25ft | 
-Gender: [b]AC[/b] Mage Armor 24 | [b]HP[/b] 80/80 | [b]Fort (T)[/b] +13+1(MA), [b]Ref (E)[/b] +15+1(MA), [b]Will (E)[/b] +14+1 | [b]Prcptn:[/b] +12 (+14 for Init) | Exploration: 
+Classes/Levels: [b]Ntr[/b] (U)+10|[b]Occlt[/b] (T)+14|[b]Prfrmnc[/b] (U)+8|[b]Rlgn[/b] (E)+14|[b]Scty[/b] (T)+14|[b]Stlth[/b] (T)+13|[b]Srvl[/b] (U)+10|[b]Thvry[/b] (T)+13 | Speed: 25|Spells 1: [i]4/4 1/1[/i] 2: [i]4/4[/i] 3: [i]3/4[/i] 4: [i]2/4[/i] | Staff: 11/11
+Gender: [b]AC[/b] Mage Armor 24 | [b]HP[/b] 80/80 | [b]Fort (T)[/b] +13+1(MA), [b]Ref (E)[/b] +15+1(MA), [b]Will (E)[/b] +14+1 | [b]Prcptn:[/b] +12 (+14 for Init) | Exploration: Detect Magic
 
 Half-Elf Human Abjurer Wizard (Staff Nexus) of the Inverted Pyramid 8
 LG Medium
@@ -26,6 +26,38 @@ Mage Armor (Heightened 4) +1 to all saves
 ------------------------------
 ------------------------------
 [b]Wizard DC[/b] 26
+Prepared:
+[i]Cantrips[/i]
+Daze
+Electric Arc
+Detect Magic
+Light
+Read Aura
+Mage Hand
+Ghost Sound
+Shield
+[i]Level 1[/i]
+Gravitational Pull
+True Strike
+Befuddle
+Feather Fall
+Inverted Spontaneous Slot
+[i]Level 2[/i]
+Enlarge
+Scorching Ray
+Invisibility
+Dispel Magic
+[i]Level 3[/i]
+STAFF CHARGE
+Haste
+Fear H+2
+Dispel Magic H+1
+[i]Level 4[/i]
+STAFF CHARGE
+Freedom of Movement
+Invisibility
+Mage Armor H+3 (Always cast at beginning of day)
+
 ------------------------------
 [spoiler=Staff of Abjuration (Greater) (4 Charges per day + Spell Slots given up)]
 While wielding the staff, you gain a +2 circumstance bonus to checks to identify abjuration magic.
